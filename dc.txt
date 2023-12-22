@@ -134,6 +134,10 @@
             "url": "https://jihulab.com/xuanzhuapp/xzvip/-/raw/main/xzys.json",
             "name": "玄竹影视"
         },
+ {
+            "url": "http://max.ruixinga.top/uploads/itvbox/astw.json",
+            "name": "4K影院MAX"
+        },
   {
             "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "小米"
