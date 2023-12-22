@@ -102,6 +102,14 @@
             "name": "⭕欧歌API"
         },
    {
+            "url": "https://jihulab.com/bh666/YGBH/-/raw/main/box原.json?ref_type=heads",
+            "name": "宝盒"
+        },
+   {
+            "url": "https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json?ref_type=heads",
+            "name": "月光宝盒"
+        },
+   {
             "url": "https://jihulab.com/bh666/YGBH/-/raw/main/tsmh.json?ref_type=heads",
             "name": "唐僧魔盒"
         },
