@@ -1,0 +1,136 @@
+//以下内容为互联网收集，只为自用…… https://raw.gitmirror.com/xiaren2/box/main/dc.txt
+        {
+    "urls":[
+        {
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "云星日记"
+        },	
+
+        {
+            "url": "https://www.agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "南风XC"
+        },
+
+
+  {
+            "url": "https://raw.gitmirror.com/PizazzGY/TVBox/main/api.json",
+            "name": "PizazzGY"
+        },
+
+     {
+            "url": "https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt",
+            "name": "影迷"
+        },
+
+        {
+            "url": "https://raw.gitmirror.com/2hacc/TVBox/main/tvbox.json",
+            "name": "二哈社区"
+        },	
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "菜妮丝"
+        },
+
+ {
+            "url": "https://xhdwc.tk/0",
+            "name": "騷零"
+        },
+ 
+	
+	    {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "吾爱评测"
+        },
+
+
+
+        {
+            "url": "http://肥猫.live",
+            "name": "肥猫"
+        },
+
+        {
+            "url": "http://饭太硬.top/tv",
+            "name": "饭太硬"
+        },
+
+
+	{
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "道长"
+        },
+
+
+        {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "FongMi"
+        },
+
+        {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "高山流云js"
+        },
+        {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "高山流云XYQ"
+        },
+
+        {
+            "url": "http://rihou.vip:88/荷城茶秀",
+            "name": "荷城茶秀"
+        },
+
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "巧计"
+        },
+        {
+            "url": "https://weixine.net/ysc.json",
+            "name": "运输车"
+        },
+  {
+            "url": "https://www.agit.ai/ddx/TVBox/raw/branch/master/catbox.json",
+            "name": "catbox专享"
+        }, 
+
+ {
+            "url": "http://meowtv.cn/tv",
+            "name": "喵影"
+        }, 
+   {
+            "url": "http://tv.nxog.top/m/ ",
+            "name": "⭕欧歌API"
+        },
+   {
+            "url": "https://jihulab.com/bh666/YGBH/-/raw/main/tsmh.json?ref_type=heads",
+            "name": "唐僧魔盒"
+        },
+
+   {
+            "url": "https://jihulab.com/bh666/YGBH/-/raw/main/vip2.json?ref_type=heads",
+            "name": "宝盒vip"
+        },
+   {
+            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+            "name": "分享者"
+        },
+   {
+            "url": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt",
+            "name": "zhulr7765"
+        },
+  {
+            "url": "https://yuzhoukeji.top/uploads/itvbox/api99.json",
+            "name": "宇宙科技"
+        },
+  {
+            "url": "https://jihulab.com/xuanzhuapp/xzvip/-/raw/main/xzys.json",
+            "name": "玄竹影视"
+        },
+  {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "小米"
+        }
+
+
+    ]
+}
