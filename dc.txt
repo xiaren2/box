@@ -146,6 +146,10 @@
             "url": "http://xwsan.top/app/hujian.json",
             "name": "小黄鸭TV"
         },
+{
+            "url": "https://jihulab.com/Rgb0315/tv/-/raw/main/tv.json?ref_type=heads",
+            "name": "255影视TV"
+        },
   {
             "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "小米"
