@@ -150,10 +150,7 @@
             "url": "https://jihulab.com/Rgb0315/tv/-/raw/main/tv.json?ref_type=heads",
             "name": "255影视TV"
         },
-{
-            "url": "https://jihulab.com/Rgb0315/tv/-/raw/main/3.json?ref_type=heads",
-            "name": "255影视TV2"
-        },
+
   {
             "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "小米"
