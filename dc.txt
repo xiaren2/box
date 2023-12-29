@@ -135,6 +135,10 @@
             "name": "宇宙科技"
         },
   {
+            "url": "https://yuzhoukeji.top/uploads/itvbox/1.json",
+            "name": "宇宙科技2"
+        },
+  {
             "url": "https://jihulab.com/xuanzhuapp/xzvip/-/raw/main/xuanzhuys.json",
             "name": "玄竹影视"
         },
