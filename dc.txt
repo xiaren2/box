@@ -147,7 +147,6 @@
             "name": "泰初影视"
         },
  
-   {"name": "玄竹影视2", "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json" },
   {
             "url": "https://jihulab.com/xuanzhuapp/xzvip/-/raw/main/xuanzhuys.json",
             "name": "玄竹影视"
