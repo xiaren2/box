@@ -131,7 +131,7 @@
             "name": "宇宙科技"
         },
   {
-            "url": "https://jihulab.com/xuanzhuapp/xzvip/-/raw/main/xzys.json",
+            "url": "https://jihulab.com/xuanzhuapp/xzvip/-/raw/main/xuanzhuys.json",
             "name": "玄竹影视"
         },
  {
