@@ -139,6 +139,10 @@
             "name": "宇宙科技2"
         },
   {
+            "url": "http://www.lyyytv.cn/yt/yt.json",
+            "name": "影探"
+        },
+  {
             "url": "https://jihulab.com/xuanzhuapp/xzvip/-/raw/main/xuanzhuys.json",
             "name": "玄竹影视"
         },
