@@ -15,5 +15,7 @@
 { "sourceName": "catbox","sourceUrl":"https://www.agit.ai/ddx/TVBox/raw/branch/master/d.json"},
 { "sourceName": "应用多多","sourceUrl":"https://duo.codered.cloud/duo.json"},
 { "sourceName": "摸鱼儿","sourceUrl":"https://jihulab.com/moyuer/Moyo/-/raw/main/moyucang.json?ref_type=heads"},
+ { "sourceName": "🚀沐沐影视备用1", "sourceUrl": "http://ys.ys.33love.cn/app/ce.json " },    
+{ "sourceName": "🚀沐沐影视备用2", "sourceUrl": "http://ys.ys.33love.cn/app/youzhi.json" }, 
 { "sourceName": "一木多仓", "sourceUrl": "https://raw.gitmirror.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E5%A4%9A%E7%BA%BF%E8%B7%AF.json" }
 ] }
