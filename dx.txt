@@ -1,5 +1,6 @@
 //以下内容为互联网收集，只为自用…… https://raw.gitmirror.com/xiaren2/box/main/dx.txt
 { "storeHouse": [ 
-
-{ "sourceName": "日后多仓", "sourceUrl": "http://rihou.vip:66" },
+{ "sourceName": "玄竹影视","sourceUrl":"http://app.aiyinch.cn/%E5%A4%9A%E4%BB%93.json"},
+{ "sourceName": "沐沐影视TV","sourceUrl":"http://y1.ys.33love.cn:8665/app/duocang.json"},
+{ "sourceName": "日后多仓", "sourceUrl": "http://rihou.vip:66" }
 ] }
