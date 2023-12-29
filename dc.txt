@@ -143,6 +143,10 @@
             "name": "影探"
         },
   {
+            "url": "http://144.廪君.中国/uploads/itvbox/api.json",
+            "name": "泰初影视"
+        },
+  {
             "url": "https://jihulab.com/xuanzhuapp/xzvip/-/raw/main/xuanzhuys.json",
             "name": "玄竹影视"
         },
