@@ -146,10 +146,13 @@
             "url": "http://144.廪君.中国/uploads/itvbox/api.json",
             "name": "泰初影视"
         },
+ 
+   {"name": "玄竹影视2", "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json" },
   {
             "url": "https://jihulab.com/xuanzhuapp/xzvip/-/raw/main/xuanzhuys.json",
             "name": "玄竹影视"
         },
+  {"name": "玄竹影视2", "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json" },
  {
             "url": "http://max.ruixinga.top/uploads/itvbox/astw.json",
             "name": "4K影院MAX"
@@ -166,6 +169,8 @@
             "url": "http://y1.ys.33love.cn:8665/app/img2.json",
             "name": "沐沐影视TV"
         },
+ { "name": "🚀沐沐影视备用1", "url": "http://ys.ys.33love.cn/app/ce.json " },    
+{ "name": "🚀沐沐影视备用2", "url": "http://ys.ys.33love.cn/app/youzhi.json" },
 {
             "url": "https://jihulab.com/moyuer/momoyu/-/raw/main/moyu.json?ref_type=heads",
             "name": "摸鱼儿"
