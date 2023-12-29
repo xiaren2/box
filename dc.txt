@@ -150,6 +150,10 @@
             "url": "https://jihulab.com/xiaopeng2/bmw/-/raw/master/cscs.json?ref_type=heads",
             "name": "Timo影院"
         },
+ {
+            "url": "http://y1.ys.33love.cn:8665/app/img2.json",
+            "name": "沐沐影视TV"
+        },
 {
             "url": "https://jihulab.com/moyuer/momoyu/-/raw/main/moyu.json?ref_type=heads",
             "name": "摸鱼儿"
