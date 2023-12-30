@@ -134,10 +134,7 @@
             "name": "宇宙科技"
         },
 
-  {
-            "url": "http://www.lyyytv.cn/yt/yt.json",
-            "name": "影探"
-        },
+
   {
             "url": "http://144.廪君.中国/uploads/itvbox/api.json",
             "name": "泰初影视"
