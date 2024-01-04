@@ -158,10 +158,7 @@
                 "url": "http://ys.ys.33love.cn/app/youzhi.json", 
                "name": "🚀沐沐影视备用2"
 },
-{
-            "url": "https://raw.fgit.cf/ellondoa/momoyu/main/moyu.json",
-            "name": "摸鱼儿"
-        },
+
 
 {
             "url": "https://jihulab.com/Rgb0315/tv/-/raw/main/tv.json?ref_type=heads",
