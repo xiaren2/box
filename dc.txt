@@ -176,14 +176,7 @@
             "url": "https://www.lianyingtv.com/11/tv/1217.json",
             "name": "恋影TV"
         },
-{
-            "url": "https://too.st/6s0",
-            "name": "乐享汇"
-        },
-{
-            "url": "http://tvkj.top/DC.txt",
-            "name": "天微仓"
-        },
+
   {
             "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "小米"
