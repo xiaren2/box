@@ -140,10 +140,7 @@
             "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json", 
              "name": "玄竹影视2"
         },
- {
-            "url": "http://max.ruixinga.top/uploads/itvbox/astw.json",
-            "name": "4K影院MAX"
-        },
+
  {
             "url": "http://itv.aiu6.cn/app/api02.json",
             "name": "星域电视"
