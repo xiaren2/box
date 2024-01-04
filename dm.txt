@@ -10,5 +10,8 @@
 {"sourceName": "🌷欧歌备仓库🌷", "sourceUrl": "http://m.nxog.top/nxog/ou1.php?url=http://m.nxog.top&b=欧歌"},
 {"sourceName": "💐欧歌测试仓库💐","sourceUrl": "http://w.nxog.top/nxog/ou1.php?url=http://w.nxog.top&xl=2&b=欧歌"},
 { "sourceName": "catbox","sourceUrl":"https://www.agit.ai/ddx/TVBox/raw/branch/master/d.json"},
+ {"sourceName": "乐享汇","sourceUrl": "https://too.st/6s0"},
+  {"sourceName": "天微仓","sourceUrl": "http://tvkj.top/DC.txt"},
+{"sourceName": "心动仓","sourceUrl": "http://rihou.vip:666"},
 { "sourceName": "应用多多","sourceUrl":"https://duo.codered.cloud/duo.json"}
 ] }
