@@ -4,17 +4,11 @@
 { "sourceName": "💢自用仓库", "sourceUrl": "https://raw.gitmirror.com/xiaren2/box/main/dc.txt" }, 
 { "sourceName": "老刘", "sourceUrl": "https://raw.fgit.cf/liu673cn/ck/main/dc.txt" }, 
 { "sourceName": "🌸超级仓库", "sourceUrl": "https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt" },  
-{ "sourceName": "乌鸦仓库", "sourceUrl": "https://jihulab.com/raven-ali/box/-/raw/main/%E4%B9%8C%E9%B8%A6.json" },
-{ "sourceName": "云星日记", "sourceUrl": "http://itvbox.cc/可视TV/云星日记/仓库/api.json" },
-
+{ "sourceName": "乌鸦仓库", "sourceUrl": "https://jihulab.com/raven-ali/camellia-s/-/raw/main/%E6%88%91%E4%B8%8D%E9%BB%91%E5%BE%88%E7%99%BD.json" },
 { "sourceName": "netlify", "sourceUrl": "https://cyuan.netlify.app/tvbox/duo.json" },
 {"sourceName": "🌹欧歌主仓库🌹", "sourceUrl": "http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌" },
 {"sourceName": "🌷欧歌备仓库🌷", "sourceUrl": "http://m.nxog.top/nxog/ou1.php?url=http://m.nxog.top&b=欧歌"},
 {"sourceName": "💐欧歌测试仓库💐","sourceUrl": "http://w.nxog.top/nxog/ou1.php?url=http://w.nxog.top&xl=2&b=欧歌"},
-{ "sourceName": "月光宝盒","sourceUrl":"https://jihulab.com/bh666/YGBH/-/raw/main/dc2.json"},
 { "sourceName": "catbox","sourceUrl":"https://www.agit.ai/ddx/TVBox/raw/branch/master/d.json"},
-{ "sourceName": "应用多多","sourceUrl":"https://duo.codered.cloud/duo.json"},
-{ "sourceName": "摸鱼儿","sourceUrl":"https://jihulab.com/moyuer/Moyo/-/raw/main/moyucang.json?ref_type=heads"},
-
-{ "sourceName": "一木多仓", "sourceUrl": "https://raw.gitmirror.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E5%A4%9A%E7%BA%BF%E8%B7%AF.json" }
+{ "sourceName": "应用多多","sourceUrl":"https://duo.codered.cloud/duo.json"}
 ] }
