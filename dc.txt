@@ -134,6 +134,10 @@
             "name": "宇宙科技"
         },
 
+  {
+            "url": "https://vip.123pan.cn/1815433723/api/tudou.json",
+            "name": "独享4K"
+        },
 
   {
             "url": "http://144.廪君.中国/uploads/itvbox/api.json",
