@@ -90,7 +90,7 @@
     },
   {
          "url": "https://youdu.fan/yd/yd.json",
-          "name": "☠有毒科技☠", 
+          "name": "☠有毒科技☠"
     },
   {
             "url": "https://www.agit.ai/ddx/TVBox/raw/branch/master/t4.json",
@@ -108,7 +108,84 @@
      {
             "url": "https://raw.fgit.cf/bestpvp/tm/main/source/nightly/main.json",
             "name": "码上放生公众号"
+        },
+   {
+            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+            "name": "分享者"
+        },
+   {
+            "url": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt",
+            "name": "zhulr7765"
+        },
+   {
+            "url": "https://jihulab.com/tvbox4431737/tvbox/-/raw/main/tv.json?ref_type=heads",
+            "name": "tvbox4431737"
+        },
+  {
+            "url": "https://yuzhoukeji.top/uploads/itvbox/api99.json",
+            "name": "宇宙科技"
+        },
+
+  {
+            "url": "https://vip.123pan.cn/1815433723/api/tudou.json",
+            "name": "独享4K"
+        },
+  {
+            "url": "https://raw.gitmirror.com/xiaren2/box/main/m.txt",
+            "name": "瑞星MAX"
+        },
+  {
+            "url": "https://raw.gitmirror.com/xiaren2/box/main/m1.txt",
+            "name": "4k"
+        },
+
+  {
+            "url": "http://144.廪君.中国/uploads/itvbox/api.json",
+            "name": "泰初影视"
+        },
+ 
+  {
+            "url": "https://jihulab.com/xuanzhuapp/xz/-/raw/main/xz.json",
+            "name": "玄竹影视"
+        },
+  {
+            "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json", 
+             "name": "玄竹影视2"
+        },
+
+ {
+            "url": "http://itv.aiu6.cn/app/api02.json",
+            "name": "星域电视"
+        },
+
+ {
+            "url": "http://y1.ys.33love.cn:8665/app/img2.json",
+            "name": "沐沐影视TV"
+        },
+ { 
+              "url": "http://ys.ys.33love.cn/app/ce.json ",
+              "name": "🚀沐沐影视备用1" 
+},    
+{ 
+                "url": "http://ys.ys.33love.cn/app/youzhi.json", 
+               "name": "🚀沐沐影视备用2"
+},
+
+
+{
+            "url": "https://jihulab.com/Rgb0315/tv/-/raw/main/tv.json?ref_type=heads",
+            "name": "255影视TV"
+        },
+{
+            "url": "https://www.lianyingtv.com/11/tv/1217.json",
+            "name": "恋影TV"
+        },
+
+  {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "小米"
         }
+
 
     ]
 }
