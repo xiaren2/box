@@ -86,11 +86,11 @@
         },
   {
          "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
-      "name": "💕运输车VIP💕"
+          "name": "💕运输车VIP💕"
     },
   {
-     "url": "https://youdu.fan/yd/yd.json",
-      "name": "☠有毒科技☠", 
+         "url": "https://youdu.fan/yd/yd.json",
+          "name": "☠有毒科技☠", 
     },
   {
             "url": "https://www.agit.ai/ddx/TVBox/raw/branch/master/t4.json",
@@ -176,7 +176,14 @@
             "url": "https://www.lianyingtv.com/11/tv/1217.json",
             "name": "恋影TV"
         },
-
+{
+            "url": "https://too.st/6s0",
+            "name": "乐享汇"
+        },
+{
+            "url": "http://tvkj.top/DC.txt",
+            "name": "天微仓"
+        },
   {
             "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "小米"
