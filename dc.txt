@@ -74,6 +74,40 @@
         {
             "url": "http://rihou.vip:88/荷城茶秀",
             "name": "荷城茶秀"
+        },
+
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "巧计"
+        },
+        {
+            "url": "https://weixine.net/ysc.json",
+            "name": "运输车"
+        },
+  {
+         "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
+          "name": "💕运输车VIP💕"
+    },
+  {
+         "url": "https://youdu.fan/yd/yd.json",
+          "name": "☠有毒科技☠", 
+    },
+  {
+            "url": "https://www.agit.ai/ddx/TVBox/raw/branch/master/t4.json",
+            "name": "catbox专享"
+        }, 
+
+ {
+            "url": "http://meowtv.cn/tv",
+            "name": "喵影"
+        }, 
+   {
+            "url": "http://tv.nxog.top/m/ ",
+            "name": "⭕欧歌API"
+        },
+     {
+            "url": "https://raw.fgit.cf/bestpvp/tm/main/source/nightly/main.json",
+            "name": "码上放生公众号"
         }
 
     ]
