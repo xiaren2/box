@@ -5,10 +5,6 @@
             "url": "http://饭太硬.top/tv",
             "name": "饭太硬"
         },
-        {
-            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "云星日记"
-        },	
 
         {
             "url": "https://www.agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
@@ -89,7 +85,7 @@
             "name": "运输车"
         },
   {
-            "url": "https://www.agit.ai/ddx/TVBox/raw/branch/master/catbox.json",
+            "url": "https://www.agit.ai/ddx/TVBox/raw/branch/master/t4.json",
             "name": "catbox专享"
         }, 
 
@@ -101,23 +97,7 @@
             "url": "http://tv.nxog.top/m/ ",
             "name": "⭕欧歌API"
         },
-   {
-            "url": "https://jihulab.com/bh666/YGBH/-/raw/main/box原.json?ref_type=heads",
-            "name": "宝盒"
-        },
-   {
-            "url": "https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json?ref_type=heads",
-            "name": "月光宝盒"
-        },
-   {
-            "url": "https://jihulab.com/bh666/YGBH/-/raw/main/tsmh.json?ref_type=heads",
-            "name": "唐僧魔盒"
-        },
-
-   {
-            "url": "https://jihulab.com/bh666/YGBH/-/raw/main/vip2.json?ref_type=heads",
-            "name": "宝盒vip"
-        },
+  
    {
             "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
             "name": "分享者"
@@ -150,7 +130,7 @@
         },
  
   {
-            "url": "https://jihulab.com/xuanzhuapp/xzvip/-/raw/main/xuanzhuys.json",
+            "url": "https://jihulab.com/xuanzhuapp/xz/-/raw/main/xz.json",
             "name": "玄竹影视"
         },
   {
