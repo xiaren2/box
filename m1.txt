@@ -339,6 +339,18 @@
       ]
     }
   ],
+ "parses": [
+    {
+      "name": "HDR-综合",
+      "type": 1,
+      "url": "http://122.228.84.103:7777/api/?key=XX84Rm4utDcfLT21tT&url="
+    },
+    {
+      "name": "HDR-超级",
+      "type": 1,
+      "url": "http://122.228.84.103:5829/jiexi/?url="
+    }
+  ],
   "flags": [],
   "parses": [],
   "ijk": [
