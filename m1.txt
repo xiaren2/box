@@ -2,7 +2,6 @@
   "spider": "http://122.228.84.103:5820/uploads/tvbox/Yoursmile.jar",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
-
       {
       "key": "综合线路",
       "name": "影院4K-B",
@@ -290,7 +289,17 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": "https://fanty.run.goorm.site/ext/高中课堂.json"
-        ],
+        },
+        {
+            "key": "我是备胎",
+            "name": "超级4K备用",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+        }],
   "lives": [
     {
       "group": "redirect",
