@@ -354,11 +354,7 @@
   {
       "name": "固定不动",
       "type": 3,
-      "url": "Demo",
-"ext":"",
-"encryptionswitch":1,
-"type_text":"Type 3",
-"status_text":""
+      "url": "Demo"
     },
     {
       "name": "HDR-综合",
