@@ -360,7 +360,7 @@
     {
       "name": "HDR-综合",
       "type": 1,
-    "url": "http://122.228.84.103:7777/api/?key=XX84Rm4utDcfLT21tT&url=",
+    "url": "http://122.228.84.103:7777/api/?key=t5MX8svgCfYhyBo0XE&url=",
 			"ext": {
                 "flag": [
 					"seven",
