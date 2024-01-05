@@ -4,7 +4,7 @@
   "sites": [
       {
       "key": "豆豆",
-      "name": "锐星首页",
+      "name": "🏭影院MAX首页",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
