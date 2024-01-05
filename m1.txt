@@ -352,7 +352,7 @@
   ],
  "parses": [
 {
-			"name": "聚合",
+			"name": "固定不动",
 			"type": 3,
 			"url": "Demo"
 		},
@@ -368,7 +368,7 @@
 					"FYNB"
 				],
 				"header": {
-					"User-Agent": "Dart/2.14（dart:io）"
+					"User-Agent": "okhttp/3.12.11"
                 }
             }
         },
