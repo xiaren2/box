@@ -373,7 +373,9 @@
 	"parses": [
 	    {"name":"Json并发","type":2,"url":"Parallel"},
 	    {"name":"解析聚合","type":3,"url":"Demo"},
-        {"name":"Json轮询","type":2,"url":"Sequence"}
+        {"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"HDR-综合","url":"http://ruixing.xn--tss124a.xn--fiqs8s/api/index?parsesId=9&parsesUrl="},
+{"name":"HDR-ZD","url":"http://ruixing.xn--tss124a.xn--fiqs8s/api/index?parsesId=8&parsesUrl="}
 	],
 	"ijk": [
 		{
