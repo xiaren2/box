@@ -138,6 +138,10 @@
             "url": "https://raw.gitmirror.com/xiaren2/box/main/m1.txt",
             "name": "4k"
         },
+ {
+            "url": "https://raw.gitmirror.com/xiaren2/box/main/m2.txt",
+            "name": "宇宙2"
+        },
 
   {
             "url": "http://144.廪君.中国/uploads/itvbox/api.json",
