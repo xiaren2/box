@@ -362,7 +362,16 @@
       "url": "http://122.228.84.103:5829/jiexi/?url="
     }
   ],
-  "flags": [],
+   "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "douyin",
+    "抖音",
+    "抖音短视",
+    "zm3u8"
+  ],
   "ijk": [
     {
       "group": "软解码",
