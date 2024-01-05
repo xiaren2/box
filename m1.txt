@@ -340,9 +340,9 @@
     }
   ],
  "parses": [
- {"id":1,"name":"固定不动","type":"3","url":"Demo","ext":"","encryptionswitch":1},
-{"id":16,"name":"HDR-综合","type":"1","url":"http://122.228.84.103:7777/api/?key=t5MX8svgCfYhyBo0XE&url=","ext":"","encryptionswitch":1},
-{"id":10,"name":"HDR-超级","type":"1","url":"http://122.228.84.103:5829/jiexi/?url=","ext":"","encryptionswitch":1}
+ {"name":"固定不动","type":"3","url":"Demo","ext":"","encryptionswitch":1},
+{"name":"HDR-综合","type":"1","url":"http://122.228.84.103:7777/api/?key=t5MX8svgCfYhyBo0XE&url=","ext":"","encryptionswitch":1},
+{"name":"HDR-超级","type":"1","url":"http://122.228.84.103:5829/jiexi/?url=","ext":"","encryptionswitch":1}
   ],
   "flags": [],
  
