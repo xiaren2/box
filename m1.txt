@@ -358,6 +358,7 @@
 			"ext": {
 				"flag": [
 					"seven",
+                                         "JMZN",
 					"Feiyun"
 				]
 			}
@@ -369,6 +370,7 @@
 "ext": {
 				"flag": [
 					"seven",
+                                         "JMZN",
 					"FYNB"
 				],
 				"header": {
