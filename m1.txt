@@ -366,6 +366,15 @@
       "name": "HDR-超级",
       "type": 1,
       "url": "http://122.228.84.103:5829/jiexi/?url="
+"ext": {
+				"flag": [
+					"seven",
+					"FYNB"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.1.0"
+				}
+			}
     }
   ],
    "flags": [
