@@ -13,7 +13,8 @@
 "quickSearch":"1",
 "filterable":"1",
 "categories":"",
-"ext":"","jar":"",
+"ext":"",
+"jar":"",
 "type_text":"Type 3",
 "playerType_text":"Playertype 1",
 "searchable_text":"Searchable 1",
@@ -343,19 +344,26 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cCUzQS8vbGkwNTgwLnRvcCUzQTUyNDQvZC9OQVMvVFY2LnR4dA=="
+            "proxy://do=live&type=txt&ext=aHR0cDovL2Zhc3RhZG1pbi5sdmRvdWkubmV0L3VwbG9hZHMvaXR2Ym94L3R2LnR4dA=="
           ]
         }
       ]
     }
   ],
  "parses": [
- {"name":"固定不动","type":"3","url":"Demo","ext":""},
-{"name":"HDR-综合","type":"1","url":"http://122.228.84.103:7777/api/?key=t5MX8svgCfYhyBo0XE&url=","ext":""},
-{"name":"HDR-超级","type":"1","url":"http://122.228.84.103:5829/jiexi/?url=","ext":""}
+    {
+      "name": "HDR-综合",
+      "type": 1,
+      "url": "http://122.228.84.103:7777/api/?key=XX84Rm4utDcfLT21tT&url="
+    },
+    {
+      "name": "HDR-超级",
+      "type": 1,
+      "url": "http://122.228.84.103:5829/jiexi/?url="
+    }
   ],
   "flags": [],
- 
+  "parses": [],
   "ijk": [
     {
       "group": "软解码",
