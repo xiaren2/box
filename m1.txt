@@ -351,11 +351,6 @@
     }
   ],
  "parses": [
-  {
-      "name": "固定不动",
-      "type": 3,
-      "url": "Demo"
-    },
     {
       "name": "HDR-综合",
       "type": 1,
