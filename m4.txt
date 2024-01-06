@@ -1,5 +1,8 @@
  {
-"jar":"http://lianying.free3v.work/1douban.jar;md5;a67b65d7240dfa381294bf1c2cdc61de",
+"wallpaper": "https://xhdwc.tk/api/img.php",
+"sites":[
+
+  {"jar":"http://lianying.free3v.work/1douban.jar;md5;a67b65d7240dfa381294bf1c2cdc61de",
         "key": "热门推荐",
       "name": "热门推荐",
       "type": 3,
@@ -476,8 +479,7 @@
 "type":0,
 "url":"https://yparse.ik9.cc/index.php?url="
 }
-	],
-
+],
 "flags":[
 "youku",
 "qq",
@@ -497,5 +499,6 @@
 
 
 }
+
 
 
