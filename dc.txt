@@ -160,7 +160,7 @@
         },
 
  {
-            "url": "http://y1.ys.33love.cn:8665/app/img2.json",
+            "url": "http://y1.ys.33love.cn:8665/app/ing",
             "name": "沐沐影视TV"
         },
  { 
