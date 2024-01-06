@@ -182,7 +182,7 @@
             "name": "恋影MAX"
         },
 {
-            "url": "https://raw.gitmirror.com/xiaren2/box/main/m2.txt",
+            "url": "https://raw.gitmirror.com/xiaren2/box/main/m4.txt",
             "name": "恋影MAX新"
         },
 
