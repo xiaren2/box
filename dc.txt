@@ -179,7 +179,7 @@
         },
 {
             "url": "https://www.lianyingtv.com/11/tv/1217.json",
-            "name": "恋影TV"
+            "name": "恋影MAX"
         },
 
   {
