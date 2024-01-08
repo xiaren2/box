@@ -367,6 +367,36 @@
 "name":"恋影2",
 "type":0,
 "url":"https://yparse.ik9.cc/index.php?url="
+},
+{
+"name":"HDR-综合",
+ "type": 1,
+"url":"http://ruixing.xn--tss124a.xn--fiqs8s/api/index?parsesId=9&parsesUrl=",
+	"ext": {
+                "flag": [
+					"seven",
+                                         "JMZN",
+					"FYNB"
+				],
+				"header": {
+					"User-Agent": "okhttp/3.12.11"
+                }
+            }
+},
+{
+"name":"HDR-ZD",
+ "type": 1,
+"url":"http://ruixing.xn--tss124a.xn--fiqs8s/api/index?parsesId=8&parsesUrl=",
+	"ext": {
+                "flag": [
+					"seven",
+                                         "JMZN",
+					"FYNB"
+				],
+				"header": {
+					"User-Agent": "okhttp/3.12.11"
+                }
+            }
 }
 ],
 "flags":[
