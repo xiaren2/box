@@ -331,12 +331,12 @@
 
   "lives": [
     {
-      "group": "自定义",
+      "group": "redirect",
       "channels": [
         {
-          "name": "直播源",
+          "name": "redirect",
           "urls": [
-            "http://www.lyyytv.cn/yt/zhibo/1.txt"
+            "proxy://do=live&type=txt&ext=aHR0cDovL3d3dy5seXl5dHYuY24veXQvemhpYm8vMS50eHQ="
           ]
         }
       ]
