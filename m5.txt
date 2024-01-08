@@ -2,7 +2,26 @@
  "spider": "http://www.lyyytv.cn/yt/yt.jar;md5;fd6a2cf8f31c7112731c5f90dab94847",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-
+ {
+"key":"csp_xml_lvdou",
+"name":"影探主接口4K",
+"api":"csp_AppYsV2",
+"type":"3",
+"playerUrl":"",
+"playerType":"1",
+"searchable":"1",
+"quickSearch":"1",
+"filterable":"1",
+"categories":"",
+"ext":"http://wvvipcms.lyyytv.cn/api.php/app/",
+"jar":"",
+"type_text":"Type 3",
+"playerType_text":"Playertype 1",
+"searchable_text":"Searchable 1",
+"quickSearch_text":"Quicksearch 1",
+"filterable_text":"Filterable 1",
+"status_text":""
+},
      {
             "key": "演唱会",
             "name": "音乐鉴赏",
