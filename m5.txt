@@ -348,14 +348,9 @@
  
  {      "key": "local3",      "name": "",      "type": 3,      "api": "",      "searchable": 0,      "quickSearch": 0,      "filterable": 0    }  ], 
 
-   "lives" : [
-            {
-            "name" : "live",
-            "type" : 0,
-            "url" : "http://www.lyyytv.cn/yt/zhibo/1.txt",
-            "epg" : "http://www.lyyytv.cn/yt/zhibo/epg.php",
-            "logo" :"https://epg.112114.xyz/logo/{name}.png"
-        }],
+"lives":
+	[{"name":"live","type":0,"url":"http://www.lyyytv.cn/yt/zhibo/1.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+
 
 "parses": [    {      "name": "聚合1",      "type": 3,      "url": "Demo"    },    {      "name": "聚合0",      "type": 3,      "url": "Web"    },   
  
