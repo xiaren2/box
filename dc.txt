@@ -177,13 +177,10 @@
             "url": "https://jihulab.com/Rgb0315/tv/-/raw/main/tv.json?ref_type=heads",
             "name": "255影视TV"
         },
-{
-            "url": "https://www.lianyingtv.com/11/tv/1217.json",
-            "name": "恋影MAX"
-        },
+
 {
             "url": "https://raw.gitmirror.com/xiaren2/box/main/m4.txt",
-            "name": "恋影MAX新"
+            "name": "恋影MAX"
         },
 
   {
