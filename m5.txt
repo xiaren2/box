@@ -2,14 +2,27 @@
  "spider": "./yt.jar;md5;fd6a2cf8f31c7112731c5f90dab94847",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-   
-   
-   
-    {"key": "csp_appys_影探","name": "❤影探使用说明","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://lfcms.lyyytv.cn/api.php/app/"},     
+ {
+"key":"csp_xml_lvdou",
+"name":"影探主接口4K",
+"api":"csp_AppYsV2",
+"type":"3",
+"playerUrl":"",
+"playerType":"1",
+"searchable":"1",
+"quickSearch":"1",
+"filterable":"1",
+"categories":"",
+"ext":"http://wvvipcms.lyyytv.cn/api.php/app/",
+"jar":"",
+"type_text":"Type 3",
+"playerType_text":"Playertype 1",
+"searchable_text":"Searchable 1",
+"quickSearch_text":"Quicksearch 1",
+"filterable_text":"Filterable 1",
+"status_text":""
+}，     
 
-
-  
-  
      {
             "key": "演唱会",
             "name": "音乐鉴赏",
@@ -334,7 +347,22 @@
   
  {      "key": "cc",      "name": "⛽请勿相信视频中任何广告",      "type": 3,      "api": "csp_XPath",      "searchable": 0,      "quickSearch": 0,      "filterable": 0    },  
  
- {      "key": "local3",      "name": "",      "type": 3,      "api": "",      "searchable": 0,      "quickSearch": 0,      "filterable": 0    }  ],  "parses": [    {      "name": "聚合1",      "type": 3,      "url": "Demo"    },    {      "name": "聚合0",      "type": 3,      "url": "Web"    },   
+ {      "key": "local3",      "name": "",      "type": 3,      "api": "",      "searchable": 0,      "quickSearch": 0,      "filterable": 0    }  ], 
+  "lives": [
+    {
+      "group": "自定义",
+      "channels": [
+        {
+          "name": "直播源",
+          "urls": [
+            "http://www.lyyytv.cn/yt/zhibo/1.txt"
+          ]
+        }
+      ]
+    }
+  ],
+
+"parses": [    {      "name": "聚合1",      "type": 3,      "url": "Demo"    },    {      "name": "聚合0",      "type": 3,      "url": "Web"    },   
  
  
   {   "name": "影探A",      "type": 1,      "url": "https://api.qljson.xyz/api/?key=d6f721dc584c894f4161e3b942a0727a&url=",      "ext": {        "flag": [          "qq",          "腾讯",          "qiyi",          "爱奇艺",          "奇艺",          "youku",          "优酷",          "sohu",          "搜狐",          "letv",          "乐视",          "mgtv",          "芒果",          "rx",          "ltnb",          "bilibili",          "1905",          "xigua"        ]      }    },  
