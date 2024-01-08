@@ -348,19 +348,7 @@
  {      "key": "cc",      "name": "⛽请勿相信视频中任何广告",      "type": 3,      "api": "csp_XPath",      "searchable": 0,      "quickSearch": 0,      "filterable": 0    },  
  
  {      "key": "local3",      "name": "",      "type": 3,      "api": "",      "searchable": 0,      "quickSearch": 0,      "filterable": 0    }  ], 
-  "lives": [
-    {
-      "group": "自定义",
-      "channels": [
-        {
-          "name": "直播源",
-          "urls": [
-            "http://www.lyyytv.cn/yt/zhibo/1.txt"
-          ]
-        }
-      ]
-    }
-  ],
+
 
 "parses": [    {      "name": "聚合1",      "type": 3,      "url": "Demo"    },    {      "name": "聚合0",      "type": 3,      "url": "Web"    },   
  
