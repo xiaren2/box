@@ -2,7 +2,9 @@
     
   "spider": "http://101.200.184.252/fm.jar",
   "wallpaper": "https://tool.weetai.cn/api",
-  "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzEwMS4yMDAuMTg0LjI1Mi90di50eHQ="]}]}],
+ "lives":
+	[{"name":"live","type":0,"url":"http://101.200.184.252/tv.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+
   "sites": [
    
    
