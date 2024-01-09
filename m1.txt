@@ -356,7 +356,45 @@
         }],
  "lives":
 	[{"name":"live","type":0,"url":"http://li0580.top:5244/d/NAS/TV6.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-  "flags": [],
+  "parses": [
+{
+			"name": "固定不动",
+			"type": 3,
+			"url": "Demo"
+		},
+
+    {
+      "name": "HDR-综合",
+      "type": 1,
+    "url": "http://122.228.84.103:7777/api/?key=o9fQb0Jvz0qZzY19Jq&url=",
+			"ext": {
+                "flag": [
+					"seven",
+                                         "JMZN",
+					"FYNB"
+				],
+				"header": {
+					"User-Agent": "okhttp/3.12.11"
+                }
+            }
+        },
+
+    {
+      "name": "HDR-超级",
+      "type": 1,
+      "url": "http://122.228.84.103:5829/jiexi/?url=",
+"ext": {
+				"flag": [
+					"seven",
+                                         "JMZN",
+					"FYNB"
+				],
+				"header": {
+					"User-Agent": "Dart/2.14（dart.io）"
+				}
+			}
+    }
+  ],
 "flags": [
     "youku",
     "优酷",
