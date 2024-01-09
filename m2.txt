@@ -1,4 +1,4 @@
- {
+    {
     
   "spider": "http://101.200.184.252/fm.jar",
   "wallpaper": "https://tool.weetai.cn/api",
@@ -6,46 +6,29 @@
   "sites": [
    
    
-  {"key":"drpy_js_豆瓣","name":"宇宙推荐","api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","type":"3","playerUrl":"","playerType":"1","searchable":"1","quickSearch":"1","filterable":"1","categories":"","ext":"http://101.200.184.252/豆瓣.js","jar":"","type_text":"Type 3","playerType_text":"Playertype 1","searchable_text":"Searchable 1","quickSearch_text":"Quicksearch 1","filterable_text":"Filterable 1","status_text":""},
+ //  {"key":"豆豆","name":"宇宙推荐","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 
-    
-    
-    {
-      "key": "alist",
-      "name": "宇宙网盘",
+   {
+      "key": "加速",
+      "name": "飞飞影视",
       "type": 3,
-      "playerType": "1",
-      "api": "csp_AList",
+      "playerType":2,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "vodPic": "https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg",
-        "drives": [
-          {
-            "name": "宇宙影视",
-            "server": "https://pan.mediy.cn/"
-          }
-        ]
-      }
-    },
+      "playUrl":"json:http://122.228.84.103:7777/api/?key=o9fQb0Jvz0qZzY19Jq&url=",
+      "ext": "http://122.228.84.103:6117/api.php/app/"
+    }, 
+    
+
 {"key":"宇宙一","name":"超人影视","type":3,"jar":"http://101.200.184.252/fix1209.jar","api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"},
 
 {"key":"宇宙二","name":"飞人影视","type":3,"jar":"http://101.200.184.252/fix1209.jar","api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"},
-//{"key":"宇宙三","name":"牛人影视","type":3,"jar":"http://101.200.184.252/fix1209.jar","api":"csp_qiao2","playerType":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4"},
-    {
-      "key": "996",
-      "name": "九九影视",
-      "type": 3,
-      "filterable": 1,
-      "api": "csp_Panda",
-      "ext": {
-        "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
-        "筛选": "1"
-      }
-    },
+{"key":"宇宙三","name":"牛人影视","type":3,"jar":"http://101.200.184.252/fix1209.jar","api":"csp_qiao2","playerType":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4"},
+{"key":"宇宙四","name":"仙人影视","type":3,"jar":"http://101.200.184.252/fix1209.jar","api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"},
+
   
  {
 
@@ -191,7 +174,7 @@
 
 
    
-{"name":"宇宙影视","type":1,"url":"https://daina.hk/api/?key=c74946c58835ecd9f1e78b0dc48c89bc&url="}
+{"name":"宇宙影视","type":1,"url":"http://122.228.84.103:7777/api/?key=o9fQb0Jvz0qZzY19Jq&url="}
     
   ],
   "flags": [
