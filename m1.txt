@@ -21,7 +21,7 @@
 "quickSearch_text":"Quicksearch 1",
 "filterable_text":"Filterable 1",
 "status_text":""
-}，
+},
 {
 "key":"csp_xml_厂长",
 "name":"高分影视",
