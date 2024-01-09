@@ -21,7 +21,7 @@
 "status_text":""
 },
 {
-"key":"csp_xml_厂长",'
+"key":"csp_xml_厂长",
 "name":"高分影视",
 "api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
 "type":"3",
