@@ -2,7 +2,26 @@
   "spider": "http://122.228.84.103:5820/uploads/tvbox/Yoursmile.jar",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
-
+    {
+"key":"csp_xml_影片推荐",
+"name":"🏭影院MAX首页",
+"api":"csp_DouDou",
+"type":"3",
+"playerUrl":"",
+"playerType":"1",
+"searchable":"1",
+"quickSearch":"1",
+"filterable":"1",
+"categories":"",
+"ext":"",
+"jar":"",
+"type_text":"Type 3",
+"playerType_text":"Playertype 1",
+"searchable_text":"Searchable 1",
+"quickSearch_text":"Quicksearch 1",
+"filterable_text":"Filterable 1",
+"status_text":""
+},
 {
 "key":"csp_xml_厂长",
 "name":"高分影视",
@@ -21,8 +40,10 @@
 "searchable_text":"Searchable 1",
 "quickSearch_text":"Quicksearch 1",
 "filterable_text":"Filterable 1",
-"status_text":""},
-{"key":"csp_xml_玩偶",
+"status_text":""
+},
+{
+"key":"csp_xml_玩偶",
 "name":"影院4K-A",
 "api":"csp_WoGG",
 "type":"3","playerUrl":"",
@@ -39,7 +60,7 @@
 "quickSearch_text":"Quicksearch 1",
 "filterable_text":"Filterable 1",
 "status_text":""
-},
+}，
       {
       "key": "综合线路",
       "name": "影院4K-B",
