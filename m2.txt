@@ -6,7 +6,7 @@
   "sites": [
    
    
-   {"key":"豆豆","name":"宇宙推荐","type": 3,"api": "csp_DouDou","searchable": 1,"quickSearch": 1,"filterable": 1},
+   {"key":"豆豆","name":"宇宙推荐","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 
    {
