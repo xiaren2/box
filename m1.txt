@@ -2,7 +2,7 @@
   "spider": "http://122.228.84.103:5820/uploads/tvbox/Yoursmile.jar",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
-    {
+     {
 "key":"csp_xml_影片推荐",
 "name":"🏭影院MAX首页",
 "api":"csp_DouDou",
@@ -34,8 +34,7 @@
 "filterable":"1",
 "categories":"",
 "ext":"https://d.kstore.space/download/6296/js/厂长.js",
-"jar":"",
-"type_text":"Type 3",
+"jar":"","type_text":"Type 3",
 "playerType_text":"Playertype 1",
 "searchable_text":"Searchable 1",
 "quickSearch_text":"Quicksearch 1",
@@ -43,14 +42,13 @@
 "status_text":""
 },
 {
-"key":"csp_xml_玩偶",
-"name":"影院4K-A",
+"key":"csp_xml_玩偶","name":"影院4K-A",
 "api":"csp_WoGG",
-"type":"3","playerUrl":"",
+"type":"3",
+"playerUrl":"",
 "playerType":"1",
 "searchable":"1",
-"quickSearch":"1",
-"filterable":"1",
+"quickSearch":"1","filterable":"1",
 "categories":"",
 "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
 "jar":"http://111.92.241.57:34077/down/6YELOdddoEao.jar",
@@ -58,10 +56,9 @@
 "playerType_text":"Playertype 1",
 "searchable_text":"Searchable 1",
 "quickSearch_text":"Quicksearch 1",
-"filterable_text":"Filterable 1",
-"status_text":""
-}，
-      {
+"filterable_text":"Filterable 1","status_text":""
+},
+ {
       "key": "综合线路",
       "name": "影院4K-B",
       "type": 3,
@@ -357,44 +354,20 @@
             "filterable": 0,
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
         }],
-  "lives":
-	[{"name":"live","type":0,"url":"http://li0580.top:5244/d/NAS/TV6.txt","playerType":1,"epg":"http://epg.lampstudy.cn/","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-    "flags": [
-    "youku",
-    "优酷",
-    "优 酷",
-    "优酷视频",
-    "qq",
-    "腾讯",
-    "腾 讯",
-    "腾讯视频",
-    "iqiyi",
-    "qiyi",
-    "奇艺",
-    "爱奇艺",
-    "爱 奇 艺",
-    "m1905",
-    "xigua",
-    "letv",
-    "leshi",
-    "乐视",
-    "乐 视",
-    "sohu",
-    "搜狐",
-    "搜 狐",
-    "搜狐视频",
-    "tudou",
-    "pptv",
-    "mgtv",
-    "芒果",
-    "imgo",
-    "芒果TV",
-    "芒 果 T V",
-    "bilibili",
-    "FYNB",
-    "哔 哩",
-    "哔 哩 哔 哩"
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "redirect",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cDovL2Zhc3RhZG1pbi5sdmRvdWkubmV0L3VwbG9hZHMvaXR2Ym94L3R2LnR4dA=="
+          ]
+        }
+      ]
+    }
   ],
+  "flags": [],
   "parses": [],
   "ijk": [
     {
