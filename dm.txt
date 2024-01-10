@@ -12,6 +12,6 @@
   {"sourceName": "天微仓","sourceUrl": "http://tvkj.top/DC.txt"},
  {"sourceName": "摸鱼","sourceUrl": "http://imget.1-r.cn:24866/LightPicture/2024/01/f1ca080fb1c190df.png"},
  {"sourceName": "摸鱼儿","sourceUrl": "http://imget.1-r.cn:24866/LightPicture/2024/01/19d01ddd0e71add1.png"},
-{"sourceName": "心动仓","sourceUrl": "http://rihou.vip:666"},
-{ "sourceName": "应用多多","sourceUrl":"https://duo.codered.cloud/duo.json"}
+{"sourceName": "心动仓","sourceUrl": "http://rihou.vip:666"}
+
 ] }
