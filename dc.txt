@@ -78,7 +78,11 @@
 
         {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
-            "name": "巧计"
+            "name": "巧计官源"
+        },
+       {
+            "url": "https://raw.gitmirror.com/xiaren2/box/main/巧计",
+            "name": "巧计自建"
         },
         {
             "url": "https://weixine.net/ysc.json",
