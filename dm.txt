@@ -11,6 +11,7 @@
 { "sourceName": "catbox","sourceUrl":"https://www.agit.ai/ddx/TVBox/raw/branch/master/d.json"},
   {"sourceName": "天微仓","sourceUrl": "http://tvkj.top/DC.txt"},
   {"sourceName": "摸鱼","sourceUrl": "https://xn--v4q818bf34b.top"},
+{"sourceName": "有毒范","sourceUrl": "https://youdu.fan/DC.txt"},
 {"sourceName": "心动仓","sourceUrl": "http://rihou.vip:666"}
 
 ] }
