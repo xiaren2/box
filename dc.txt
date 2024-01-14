@@ -115,10 +115,7 @@
             "url": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt",
             "name": "zhulr7765"
         },
-   {
-            "url": "https://jihulab.com/tvbox4431737/tvbox/-/raw/main/tv.json?ref_type=heads",
-            "name": "tvbox4431737"
-        },
+
 
   {
             "url": "https://vip.123pan.cn/1815433723/api/tudou.json",
