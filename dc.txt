@@ -138,7 +138,10 @@
             "url": "https://raw.gitmirror.com/xiaren2/box/main/m4.txt",
             "name": "恋影MAX"
         },
-
+{
+            "url": "https://raw.gitmirror.com/xiaren2/box/main/m5.txt",
+            "name": "影探"
+        },
 
   {
             "url": "http://144.廪君.中国/uploads/itvbox/api.json",
