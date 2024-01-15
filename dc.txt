@@ -119,7 +119,7 @@
             "name": "独享4K"
         },
   {
-            "url": "https://cdn.jsdelivr.net/gh/xiaren2/box@main/m5.txt/xiaren2/box/main/m.txt",
+            "url": "https://raw.fgit.cf/xiaren2/box/main/m.txt",
             "name": "瑞星MAX"
         },
   {
