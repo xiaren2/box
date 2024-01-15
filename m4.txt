@@ -2,19 +2,20 @@
 "wallpaper": "https://xhdwc.tk/api/img.php",
 "sites":[
 
-  {"jar":"http://cdn.nbhut.com/1douban.jar;md5;a67b65d7240dfa381294bf1c2cdc61de",
+  {"jar":"https://www.lianyingmax.com/2024/1douban.jar;md5;a67b65d7240dfa381294bf1c2cdc61de",
         "key": "热门推荐",
       "name": "热门推荐",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
       "changeable": 1,
-        "ext": "http://cdn.nbhut.com/1douban.json"
+        "ext": "https://www.lianyingmax.com/2024/1douban.json"
     },
-   //{"key":"1热门推荐","name":"1热门推荐","type":3,"api":"http://cdn.nbhut.com/lib/drpy2.min.js","ext":"http://cdn.nbhut.com/lib/drpy.js"},
+   //{"key":"1热门推荐","name":"1热门推荐","type":3,"api":"https://www.lianyingmax.com/2024/lib/drpy2.min.js","ext":"https://www.lianyingmax.com/2024/lib/drpy.js"},
+
 		
 
-	{"jar":"http://cdn.nbhut.com/996-yiqikan-kuaikan.jar;md5;45be8ec4577aff11df83a8e8e5878522",
+	{"jar":"https://www.lianyingmax.com/2024/996-yiqikan-kuaikan.jar;md5;45be8ec4577aff11df83a8e8e5878522",
 			"key": "会员线路1",
 			"name": "会员线路1",
 			"type": 3,
@@ -23,7 +24,7 @@
 			"quickSearch":1,
 			"changeable": 1
 		},//996影院
-{"jar":"http://cdn.nbhut.com/fan1129.png;md5;ea2690fc66083afe1431071968e60395","key":"会员线路2","name":"会员线路2","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
+{"jar":"https://www.lianyingmax.com/2024/fan1129.png;md5;ea2690fc66083afe1431071968e60395","key":"会员线路2","name":"会员线路2","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
 
 {"key":"010A1","name":"██████","type":3,"api":"1","searchable":0},
 {"key":"020A2","name":"██████","type":3,"api":"1","searchable":0},
@@ -38,7 +39,13 @@
 
 
 
-{"jar":"http://cdn.nbhut.com/pg.nogo.png;md5;cd43553a60d2f98259297a7110b571e2","key":"会员线路3","name":"会员线路3","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},//南瓜
+{"jar":"https://www.lianyingmax.com/2024/pg.nogo.png;md5;cd43553a60d2f98259297a7110b571e2","key":"会员线路3","name":"会员线路3","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,
+"ext": {
+
+"线路标题": "[不包含:FF源-勿信视频内广告#恋影独家9]"
+}
+
+},//南瓜
 
 	 {
 		
@@ -50,19 +57,9 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "jar":"http://cdn.nbhut.com/fan.png;md5;be6121b5c37471b191114027123912d2"
+            "jar":"https://www.lianyingmax.com/2024/fan.png;md5;be6121b5c37471b191114027123912d2"
         },//搜不到
 
-	{"jar":"http://cdn.nbhut.com/996-yiqikan-kuaikan.jar;md5;45be8ec4577aff11df83a8e8e5878522",
-			"key": "会员线路5",
-			"name": "会员线路5",
-			"type": 3,
-			"api": "csp_Kuaikan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"filterable": 1
-		},
 
 
     
@@ -71,46 +68,19 @@
 
 
 
-        {
-            "key":"会员线路6",
-            "name":"会员线路6",
-            "type":3,
-            "searchable":1,
-            "quickSearch":1,
-            "api":"csp_Appto",
-            "jar":"http://cdn.nbhut.com/fm.jar.png;md5;c750e3a11b34076a03f302f206d3157c",
-            "playerType":2,
-            "ext":{
-                "key":"QBccRNTdEscBYykPWRbKD7YREjN6AJYJ",
-                "ic":"",
-                "token":"",
-                "url":"http://app.mervod.com:9527",
-                "configurl":"/addons/apptov4/app.php/v1/config/get?p=android",
-                "api":"/addons/apptov4/app.php/v1/"
-            }
-        },
-	         {
-            "jar":"http://cdn.nbhut.com/nogo.jar.png;md5;cea9d53ce2d0385ce5e2cf3f2f5af129",
-            "key":"会员线路7",
-            "name":"会员线路7",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://ttsp.live/api.php/app/"
-        },//天天
+//{"key":"会员线路6","name":"会员线路6","type":3,"searchable":1,"quickSearch":1,"api":"csp_Appto","jar":"https://www.lianyingmax.com/2024/fm.jar.png;md5;c750e3a11b34076a03f302f206d3157c","playerType":2,"ext":{"key":"QBccRNTdEscBYykPWRbKD7YREjN6AJYJ","ic":"","token":"","url":"http://app.mervod.com:9527","configurl":"/addons/apptov4/app.php/v1/config/get?p=android","api":"/addons/apptov4/app.php/v1/"}},
+
 	
 {
-"key": "会员线路8",
-"name": "会员线路8",
+"key": "会员线路5",
+"name": "会员线路5",
 "type": 3,
 "api": "csp_XBPQ",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
 "playerType": "1",
-"jar": "http://cdn.nbhut.com/5.jar;md5;c570b052645834a1109b54421c1552f9",
+"jar": "https://www.lianyingmax.com/2024/5.jar;md5;c570b052645834a1109b54421c1552f9",
 "ext": {
 "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m",
 "分类": "电影&剧集&动漫&综艺",
@@ -131,93 +101,96 @@
 }
 },
 
-		
-{"jar":"http://cdn.nbhut.com/fan1129.png;md5;ea2690fc66083afe1431071968e60395","key":"会员线路9","name":"会员线路9","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="},
 
 
 {"key":"01","name":"██████","type":3,"api":"1","ext":"1","searchable":0},
 {"key":"02","name":"【影视备用线路↓】","type":3,"api":"2","ext":"1","searchable":0},
 {"key":"03","name":"██████","type":3,"api":"1","ext":"3","searchable":0},
 
+		
+{//嘿嘿
+"jar":"https://www.lianyingmax.com/2024/fan1129.png;md5;ea2690fc66083afe1431071968e60395","key":"会员线路6","name":"会员线路6","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="},
 
 
     {
-            "key":"会员线路10",
-            "name":"会员线路10",
+            "key":"会员线路7",
+            "name":"会员线路7",
             "type":3,
             "api":"csp_NanGua",
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "jar":"http://cdn.nbhut.com/6.png;md5;54533ae83bcd500b92880651bd4abd17"
+            "jar":"https://www.lianyingmax.com/2024/6.png;md5;54533ae83bcd500b92880651bd4abd17"
         },//南瓜
 
        
 	
 
-      {
+
+
+{//七新
+	"key": "会员线路8",
+	"name": "会员线路8",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"playerType": 1,
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"jar": "https://www.lianyingmax.com/2024/7xin.jar;md5;ecdd18853df3fe8d779cce19b822f8af",
+	"ext": {
+		"站名": "七新影院",
+		"主页url": "http://www.7xdy.com/",
+		"简介": "+<span class=\"detail-content\" style=\"display: none;\">&&</span>",
+		"导演": "导演：&&</a>",
+		"主演": "主演：&&</a>",
+		"搜索url": "http://www.7xdy.com/search.php;post;searchword={wd}",
+		"影片状态": "集数：&&</div>",
+		"影片类型": "video-tag-icon\">&&立即播放",
+		"免嗅": "0",
+		"图片": "data-original=\"&&\"",
+		"线路标题": "恋影臻享",
+		"线路数组": "<h3&&</h3>",
+		"分类url": "http://www.7xdy.com/{cateId}/index{catePg}.html[firstPage=http://www.7xdy.com/{cateId}/index.html",
+		"分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
+	}
+},
+
+
+		
+
+
+
+
+
+     
+	{"key":"会员线路9","name":"会员线路9","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://www.lianyingmax.com/2024/kuankan.555.jar"},//快看
+
+{//追忆
+	"key": "会员线路10",
+	"name": "会员线路10",
+	"type": 3,
+	"api": "csp_App",
+	"searchable": 1,
+	"filterable": 1,
+	"changeable": 1,
+	"jar": "http://47.93.215.151/YSZYZ.jar",
+	"ext": "ZhuiYi#tvbox.aleoe.cc#3.0.231015"
+},
+
+
+
+	
+	{"jar":"https://www.lianyingmax.com/2024/kuankan.555.jar",
       "key": "会员线路11",
       "name": "会员线路11",
-			"type": 1,
-			"api": "http://dytt996.com/api.php/provide/vod/?ac=list",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"playUrl": "json:https://gg.dytt996.com/quad.php?url="
-     },
-
-
-
-		
-
-
-{"jar":"http://cdn.nbhut.com/fan1129.png;md5;ea2690fc66083afe1431071968e60395","key":"会员线路12","name":"会员线路12","type":3,"api":"csp_AppMao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"},
-    { "jar":"http://cdn.nbhut.com/nogo.jar.png;md5;cea9d53ce2d0385ce5e2cf3f2f5af129",
-            "key":"会员线路13",
-            "name":"会员线路13",
-            "type":3,
-            "api":"csp_Appto",
-            "playerType":2,
-            "ext":"cepveeMdL3qzBp3D86fBcgucTPCRb88AXoITrxvmypEbJbvnC/4ipv8+gLYBHlIYBFWfcZr3fkzfxQ8gAmZel3ej+I4REk7LnHUBNtZ9P0S97uBwswzPtz3voKW2TcVbBKQNmA2XowTEbiwPTJTkP8H3KpHtipqyoPNDOoDXGviUlUQqn3+A8FSXDyoySvEvG3eTw64Pj48USmhQvQPG8Jvhpo9+YRSg3pa6vv9hUjYmgheP1X8rA6zqy9N4L++/NL5gszaaf8yH4omdSxtYrj330jkXC4vPWU5fE4p6vRrq7mxA5Bp48Lhp3GjrKDyoOjBrI7+yvKarHhyoklswLFD3vfmM4J3osXIoUnwpXBBktdkDgFzUHvxY8BUeCTMBIPQfGiS8v88z6OPR8ven+KdreBl8BV6RqFK7vHb/OM9O5qLNpsPNSImbet1tdaAbSyEUxNUjplKpbGCxM5RZgcdyl/prki2aDcpICE54hcagK8d0JvmohzpLE2xper9AdIP1lD+sYndodhIYejNPFP3BiKPdRkBTrcQbicyp9oA6OIg2/aoJRvH1tai/OcozC5DaT0TPg1eo1NhodMKHa/CZ3Srg0ij9ocYwbX/e42JrBCgnp0gCph/oz7EipyUDI3n437r/skJ/cDEPColQ8PfT2LQE7hPGbp1/mDG3aKLNSuVCiMkQy66a6jyfyPKd8GqzpkGPCrPpneBNsMjGqLCveMl/PgXloTG7BZbg+X0VoXpCjOC3u9n2/Z4xqdnc+Dhw1LBXpdhvLKKl6d9K6/dOVgWRIfYx2I5DPQn79fU47+UkPxPA7qAaU0v9tRXYKXfRh2yJcijXre4/JzBxSmR2owrKVmnXcwBlsIseor36jbISj4TJdA+gVP5Ayfh5a09kpFDYvuPTgRhs4O2z2t3LBnQzLE3KBT2xPznJurYInw7P4yVxDOhpFkGGPZNV/+ehl9CcWwhZzUvHqtPD2zqZXKZvgB3BxR4b1NTgtRY+h28BFD4N9ejY5aJ9yS50kXYTIhXvwrzbRAjHLf+sj4t0gybV7S4osR92WoOyf3rpyeUQdO+9Bqfl5fWvqVl9tMC7/ukkgqlb2p+R1TLbiqD+ruQNMYGdETK4Nl4dkgUVOxOmabWH6RjKiykA5GQWKwo2PLrxE4fwhgkNCYlVDP8gYUBPdo5SeXM7p2ZKrRs7hlFGA2WbSnC4Ni05mwCmlOw9pJzbCXUMalJcD+9b53sLKgb4JYWjEmPe1/4fpH+xwZPlNDjQXGVolNxGkUodNzUFTECEWZLjGtqwQiQYNrErYXRYfea5Vx02WW1JyrHbYJ4FJv61h1KQ6fXAxty+OdtMTU95TwpNr8E62aFNSMQ==$$$null$$$1"
-        },
-		
-	
-
-{"jar":"http://cdn.nbhut.com/pg.nogo.png;md5;cd43553a60d2f98259297a7110b571e2","key":"会员线路14 ","name":"会员线路14","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},		//一起看
-	
-
-
-{"jar":"http://cdn.nbhut.com/fan1129.png;md5;ea2690fc66083afe1431071968e60395","key":"会员线路15","name":"会员线路15","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},//毛驴
-
-
-
-   
-   	{"jar":"http://cdn.nbhut.com/pg.nogo.png;md5;cd43553a60d2f98259297a7110b571e2",
-			"key": "会员线路24",
-			"name": "会员线路24",
-			"type": 3,
-			"api": "csp_Kuaikan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"filterable": 1
-		},//快看
-
-
-    {
-            "key":"会员线路25",
-            "name":"会员线路25",
-            "type":3,
-            "api":"csp_NanGua",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "jar":"http://cdn.nbhut.com/6.png;md5;54533ae83bcd500b92880651bd4abd17"
-        },//南瓜
-
-       
-
-
+      "type": 3,
+      "api": "csp_Ys555",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.555dyy1.com"
+    },//555
 
 
 
@@ -229,33 +202,33 @@
 {"key":"022","name":"【老人线路↓】","type":3,"api":"2","ext":"1","searchable":0},
 {"key":"033","name":"██████","type":3,"api":"1","ext":"3","searchable":0},
 
-{"jar":"http://cdn.nbhut.com/bili相声小品.jar","key":"相声|小品","name":"相声|小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.nbhut.com/bili相声小品.json"},
+{"jar":"https://www.lianyingmax.com/2024/bili相声小品.jar","key":"相声|小品","name":"相声|小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://www.lianyingmax.com/2024/bili相声小品.json"},
 
-{"jar":"http://cdn.nbhut.com/bili棋牌.jar","key":"棋牌|娱乐","name":"棋牌|娱乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.nbhut.com/bili棋牌.json"},
+{"jar":"https://www.lianyingmax.com/2024/bili棋牌.jar","key":"棋牌|娱乐","name":"棋牌|娱乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://www.lianyingmax.com/2024/bili棋牌.json"},
 
-{"jar":"http://cdn.nbhut.com/bili戏曲.jar","key":"曲苑|杂坛","name":"曲苑|杂坛","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.nbhut.com/bili戏曲.json"},
+{"jar":"https://www.lianyingmax.com/2024/bili戏曲.jar","key":"曲苑|杂坛","name":"曲苑|杂坛","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://www.lianyingmax.com/2024/bili戏曲.json"},
 
 {"key":"0111","name":"██████","type":3,"api":"1","ext":"1","searchable":0},
 {"key":"0222","name":"【青年线路↓】","type":3,"api":"2","ext":"1","searchable":0},
 {"key":"0333","name":"██████","type":3,"api":"1","ext":"3","searchable":0},
 
-{"jar":"http://cdn.nbhut.com/bili体育.jar","key":"体育|赛事","name":"体育|赛事","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.nbhut.com/bili体育.json"},
+{"jar":"https://www.lianyingmax.com/2024/bili体育.jar","key":"体育|赛事","name":"体育|赛事","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://www.lianyingmax.com/2024/bili体育.json"},
 
-{"jar":"http://cdn.nbhut.com/bili球类.jar","key":"球类|体育","name":"球类|体育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.nbhut.com/bili球类.json"},
+{"jar":"https://www.lianyingmax.com/2024/bili球类.jar","key":"球类|体育","name":"球类|体育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://www.lianyingmax.com/2024/bili球类.json"},
 
-{"jar":"http://cdn.nbhut.com/bili球星.jar","key":"球星|足球","name":"球星|足球","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.nbhut.com/bili球星.json"},
+{"jar":"https://www.lianyingmax.com/2024/bili球星.jar","key":"球星|足球","name":"球星|足球","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://www.lianyingmax.com/2024/bili球星.json"},
 
-{"jar":"http://cdn.nbhut.com/bili舞蹈.jar","key":"女团|舞蹈","name":"女团|舞蹈","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.nbhut.com/bili舞蹈.json"},
+{"jar":"https://www.lianyingmax.com/2024/bili舞蹈.jar","key":"女团|舞蹈","name":"女团|舞蹈","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://www.lianyingmax.com/2024/bili舞蹈.json"},
 
-{"jar":"http://cdn.nbhut.com/bili搭配.jar","key":"衣着|搭配","name":"衣着|搭配","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.nbhut.com/bili搭配.json"},
+{"jar":"https://www.lianyingmax.com/2024/bili搭配.jar","key":"衣着|搭配","name":"衣着|搭配","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://www.lianyingmax.com/2024/bili搭配.json"},
 
-{"jar":"http://cdn.nbhut.com/bili户外.jar","key":"户外|生活","name":"户外|生活","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.nbhut.com/bili户外.json"},
+{"jar":"https://www.lianyingmax.com/2024/bili户外.jar","key":"户外|生活","name":"户外|生活","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://www.lianyingmax.com/2024/bili户外.json"},
 
-{"jar":"http://cdn.nbhut.com/bili户外.jar","key":"户外|生活","name":"户外|生活","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.nbhut.com/bili户外.json"},
+{"jar":"https://www.lianyingmax.com/2024/bili户外.jar","key":"户外|生活","name":"户外|生活","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://www.lianyingmax.com/2024/bili户外.json"},
 
-{"jar":"http://cdn.nbhut.com/bili搭讪.jar","key":"社交|搭讪","name":"社交|搭讪","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.nbhut.com/bili搭讪.json"},
+{"jar":"https://www.lianyingmax.com/2024/bili搭讪.jar","key":"社交|搭讪","name":"社交|搭讪","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://www.lianyingmax.com/2024/bili搭讪.json"},
 
-{"jar":"http://cdn.nbhut.com/biliPS.jar","key":"PS|学习","name":"PS|学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.nbhut.com/biliPS.json"},
+{"jar":"https://www.lianyingmax.com/2024/biliPS.jar","key":"PS|学习","name":"PS|学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://www.lianyingmax.com/2024/biliPS.json"},
 
 
 {"key":"0222222","name":"【备用】","type":3,"api":"2","ext":"1","searchable":0},
@@ -264,59 +237,59 @@
 {"key":"02222","name":"【学习线路↓】","type":3,"api":"2","ext":"1","searchable":0},
 {"key":"03333","name":"██████","type":3,"api":"1","ext":"3","searchable":0},
 
-{"key":"课堂教育","name":"课堂教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.nbhut.com/bili课堂教育.json","jar":"http://cdn.nbhut.com/bili课堂教育.jar"},
-{"key":"幼儿乐园","name":"幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://cdn.nbhut.com/bili幼儿乐园.json","jar":"http://cdn.nbhut.com/bili课堂教育.jar"},
-{"key":"少儿教育","name":"少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://cdn.nbhut.com/bili少儿教育.json","jar":"http://cdn.nbhut.com/bili课堂教育.jar"},
-{"key":"小学课堂","name":"小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://cdn.nbhut.com/bili小学课堂.json","jar":"http://cdn.nbhut.com/bili小学课堂.jar"},
-{"key":"初中课堂","name":"初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://cdn.nbhut.com/bili初中课堂.json","jar":"http://cdn.nbhut.com/bili初中课堂.jar"},
-{"key":"高中教育","name":"高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://cdn.nbhut.com/bili高中课堂.json","jar":"http://cdn.nbhut.com/bili高中课堂.jar"},
+{"key":"课堂教育","name":"课堂教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://www.lianyingmax.com/2024/bili课堂教育.json","jar":"https://www.lianyingmax.com/2024/bili课堂教育.jar"},
+{"key":"幼儿乐园","name":"幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://www.lianyingmax.com/2024/bili幼儿乐园.json","jar":"https://www.lianyingmax.com/2024/bili课堂教育.jar"},
+{"key":"少儿教育","name":"少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://www.lianyingmax.com/2024/bili少儿教育.json","jar":"https://www.lianyingmax.com/2024/bili课堂教育.jar"},
+{"key":"小学课堂","name":"小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://www.lianyingmax.com/2024/bili小学课堂.json","jar":"https://www.lianyingmax.com/2024/bili小学课堂.jar"},
+{"key":"初中课堂","name":"初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://www.lianyingmax.com/2024/bili初中课堂.json","jar":"https://www.lianyingmax.com/2024/bili初中课堂.jar"},
+{"key":"高中教育","name":"高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://www.lianyingmax.com/2024/bili高中课堂.json","jar":"https://www.lianyingmax.com/2024/bili高中课堂.jar"},
 
-{"jar":"http://cdn.nbhut.com/bili外语.jar","key":"外语|学习","name":"外语|学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.nbhut.com/bili外语.json"},
+{"jar":"https://www.lianyingmax.com/2024/bili外语.jar","key":"外语|学习","name":"外语|学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://www.lianyingmax.com/2024/bili外语.json"},
 
-{"jar":"http://cdn.nbhut.com/biliExcel.jar","key":"Excel|学习","name":"Excel|学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.nbhut.com/biliExcel.json"},
+{"jar":"https://www.lianyingmax.com/2024/biliExcel.jar","key":"Excel|学习","name":"Excel|学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://www.lianyingmax.com/2024/biliExcel.json"},
 
-{"jar":"http://cdn.nbhut.com/biliPS.jar","key":"PS|学习","name":"PS|学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.nbhut.com/biliPS.json"},
+{"jar":"https://www.lianyingmax.com/2024/biliPS.jar","key":"PS|学习","name":"PS|学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://www.lianyingmax.com/2024/biliPS.json"},
 {"key":"0121111","name":"备用","type":3,"api":"1","ext":"1","searchable":0},
-{"key":"011111","name":"██████","type":3,"api":"1","ext":"1","searchable":0},
-{"key":"022222","name":"【非会员试看线路↓】","type":3,"api":"2","ext":"1","searchable":0},
-{"key":"033333","name":"██████","type":3,"api":"1","ext":"3","searchable":0},
+//{"key":"011111","name":"██████","type":3,"api":"1","ext":"1","searchable":0},
+//{"key":"022222","name":"【非会员试看线路↓】","type":3,"api":"2","ext":"1","searchable":0},
+//{"key":"033333","name":"██████","type":3,"api":"1","ext":"3","searchable":0},
 
 
-{"key":"试看1-有广告","name":"试看1-有广告","type":1,"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","纪录片","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","演唱会","体育赛事","篮球","足球","预告片","斯诺克","影视解说"],"searchable":1,"quickSearch":1},//索尼
+//{"key":"试看1-有广告","name":"试看1-有广告","type":1,"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","纪录片","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","演唱会","体育赛事","篮球","足球","预告片","斯诺克","影视解说"],"searchable":1,"quickSearch":1},//索尼
 
 
-{"key":"试看2-有广告","name":"试看2-有广告","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"quickSearch": 1,"changeable":1},//暴風
-{"key":"试看3-有广告","name":"试看3-有广告","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"quickSearch": 1,"changeable":1},//索尼
+//{"key":"试看2-有广告","name":"试看2-有广告","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":0,"quickSearch": 0,"changeable":1},//暴風
+//{"key":"试看3-有广告","name":"试看3-有广告","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"quickSearch": 1,"changeable":1},//索尼
 
 
-{"key":"试看4-有广告","name":"试看4-有广告","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"quickSearch": 1,"changeable":1},//快帆
+//{"key":"试看4-有广告","name":"试看4-有广告","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"quickSearch": 1,"changeable":1},//快帆
 
-{"key":"试看5-有广告","name":"试看5-有广告","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch": 1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},//非凡	
-{	"key":"试看6-有广告","name":"试看6-有广告","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]},
+//{"key":"试看5-有广告","name":"试看5-有广告","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch": 1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},//非凡	
+//{	"key":"试看6-有广告","name":"试看6-有广告","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]},
 {"key":"4","name":"██████","type":3,"api":"4","ext":"1","searchable":0},
 
 
 {"key":"5","name":"【音乐综合↓】","type":3,"api":"5","ext":"1","searchable":0},
 {"key":"6","name":"██████","type":3,"api":"6","ext":"1","searchable":0},
 
-{"jar":"http://cdn.nbhut.com/bili乐器.jar","key":"乐器|欣赏","name":"乐器|欣赏","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.nbhut.com/bili乐器.json"},
+{"jar":"https://www.lianyingmax.com/2024/bili乐器.jar","key":"乐器|欣赏","name":"乐器|欣赏","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://www.lianyingmax.com/2024/bili乐器.json"},
 
-{"jar":"http://cdn.nbhut.com/bili演唱会.jar","key":"演唱会|音乐","name":"演唱会|音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.nbhut.com/bili演唱会.json"},
+{"jar":"https://www.lianyingmax.com/2024/bili演唱会.jar","key":"演唱会|音乐","name":"演唱会|音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://www.lianyingmax.com/2024/bili演唱会.json"},
 
-{"jar":"http://cdn.nbhut.com/biliMTV.jar","key":"MTV|音乐","name":"MTV|音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.nbhut.com/biliMTV.json"},
+{"jar":"https://www.lianyingmax.com/2024/biliMTV.jar","key":"MTV|音乐","name":"MTV|音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://www.lianyingmax.com/2024/biliMTV.json"},
 
-{"key":"mtv_聚短视频","name":"影视|短视频","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":1,"filterable":0,"ext":"http://cdn.nbhut.com/%E8%81%9A%E7%9F%AD%E8%A7%86%E9%A2%91.json","jar":"http://cdn.nbhut.com/03.png"},
-{"key":"drpy_js_网易公版影像","name":"聚合|网易","type":3,"api":"http://cdn.nbhut.com/lib/drpy2.min.js","searchable":0,"quickSearch":1,"filterable":0,"ext":"http://cdn.nbhut.com/%E7%BD%91%E6%98%93%E5%85%AC%E7%89%88%E5%BD%B1%E5%83%8F.js"},
-{"key":"drpy_js_酷6网","name":"MV|酷6网","type":3,"api":"http://cdn.nbhut.com/lib/drpy2.min.js","searchable":0,"quickSearch":1,"filterable":0,"ext":"http://cdn.nbhut.com/%E9%85%B76%E7%BD%91.js"},
+{"key":"mtv_聚短视频","name":"影视|短视频","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":1,"filterable":0,"ext":"https://www.lianyingmax.com/2024/%E8%81%9A%E7%9F%AD%E8%A7%86%E9%A2%91.json","jar":"https://www.lianyingmax.com/2024/03.png"},
+{"key":"drpy_js_网易公版影像","name":"聚合|网易","type":3,"api":"https://www.lianyingmax.com/2024/lib/drpy2.min.js","searchable":0,"quickSearch":1,"filterable":0,"ext":"https://www.lianyingmax.com/2024/%E7%BD%91%E6%98%93%E5%85%AC%E7%89%88%E5%BD%B1%E5%83%8F.js"},
+{"key":"drpy_js_酷6网","name":"MV|酷6网","type":3,"api":"https://www.lianyingmax.com/2024/lib/drpy2.min.js","searchable":0,"quickSearch":1,"filterable":0,"ext":"https://www.lianyingmax.com/2024/%E9%85%B76%E7%BD%91.js"},
 {"key":"7","name":"██████","type":3,"api":"7","ext":"1","searchable":0},
 {"key":"8","name":"【游戏直播↓】","type":3,"api":"8","ext":"1","searchable":0},
 {"key":"9","name":"██████","type":3,"api":"9","ext":"1","searchable":0},
 
 
-{"key":"drpy_js_JustLive","name":"直播|集合","type":3,"api":"http://cdn.nbhut.com/lib/drpy2.min.js","ext":"http://cdn.nbhut.com/JustLive.js","searchable":0},
-{"key":"drpy_js_哔哩直播","name":"直播|哔哩","type":3,"api":"http://cdn.nbhut.com/lib/drpy2.min.js","searchable":0,"quickSearch":1,"filterable":0,"ext":"http://cdn.nbhut.com/%E5%93%94%E5%93%A9%E7%9B%B4%E6%92%AD.js"},
-{"key":"drpy_js_斗鱼直播","name":"直播|斗鱼","type":3,"api":"http://cdn.nbhut.com/lib/drpy2.min.js","searchable":0,"quickSearch":1,"filterable":0,"ext":"http://cdn.nbhut.com/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.js"},
-{"key":"drpy_js_虎牙直播","name":"直播|虎牙","type":3,"api":"http://cdn.nbhut.com/lib/drpy2.min.js","searchable":0,"quickSearch":1,"filterable":0,"ext":"http://cdn.nbhut.com/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.js"},
+{"key":"drpy_js_JustLive","name":"直播|集合","type":3,"api":"https://www.lianyingmax.com/2024/lib/drpy2.min.js","ext":"https://www.lianyingmax.com/2024/JustLive.js","searchable":0},
+{"key":"drpy_js_哔哩直播","name":"直播|哔哩","type":3,"api":"https://www.lianyingmax.com/2024/lib/drpy2.min.js","searchable":0,"quickSearch":1,"filterable":0,"ext":"https://www.lianyingmax.com/2024/%E5%93%94%E5%93%A9%E7%9B%B4%E6%92%AD.js"},
+{"key":"drpy_js_斗鱼直播","name":"直播|斗鱼","type":3,"api":"https://www.lianyingmax.com/2024/lib/drpy2.min.js","searchable":0,"quickSearch":1,"filterable":0,"ext":"https://www.lianyingmax.com/2024/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.js"},
+{"key":"drpy_js_虎牙直播","name":"直播|虎牙","type":3,"api":"https://www.lianyingmax.com/2024/lib/drpy2.min.js","searchable":0,"quickSearch":1,"filterable":0,"ext":"https://www.lianyingmax.com/2024/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.js"},
 
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":1,"filterable":0},
 {"key":"本地","name":"本地","type":3,"api":"csp_Local","searchable":0,"quickSearch":1,"filterable":0},
@@ -324,7 +297,7 @@
 {"key":"8i","name":"www.lianyingtv.com","type":3,"api":"8","ext":"1","searchable":0},
 {"key":"9i","name":"www.lianyingmax.com","type":3,"api":"9","ext":"1","searchable":0}
 ],
-    "lives" : [
+ "lives" : [
             {
             "name" : "live",
             "type" : 0,
@@ -412,7 +385,7 @@
 "wasu"
 ],
 
-"spider":"http://cdn.nbhut.com/ts.jar;md5;46a2f0037de7f2474d06500c97ac7932"
+"spider":"https://www.lianyingmax.com/2024/ts.jar;md5;46a2f0037de7f2474d06500c97ac7932"
 
 
 
