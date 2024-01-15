@@ -123,23 +123,23 @@
             "name": "瑞星MAX"
         },
   {
-            "url": "https://gh.ddlc.top/raw.githubusercontent.com/xiaren2/box/main/m1.txt",
+            "url": "https://raw.fgit.cf/xiaren2/box/main/m1.txt",
             "name": "4k影院MAX"
         },
  {
-            "url": "https://gh.ddlc.top/raw.githubusercontent.com/xiaren2/box/main/m2.txt",
+            "url": "https://raw.fgit.cf/xiaren2/box/main/m2.txt",
             "name": "宇宙2"
         },
  {
-            "url": "https://gh.ddlc.top/raw.githubusercontent.com/xiaren2/box/main/m3.txt",
+            "url": "https://raw.fgit.cf/xiaren2/box/main/m3.txt",
             "name": "龙门视频"
         },
 {
-            "url": "https://gh.ddlc.top/raw.githubusercontent.com/xiaren2/box/main/m4.txt",
+            "url": "https://raw.fgit.cf/xiaren2/box/main/m4.txt",
             "name": "恋影MAX"
         },
 {
-            "url": "https://gh.ddlc.top/raw.githubusercontent.com/xiaren2/box/main/m5.txt",
+            "url": "https://raw.fgit.cf/xiaren2/box/main/m5.txt",
             "name": "影探"
         },
 
