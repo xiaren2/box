@@ -126,10 +126,7 @@
             "url": "https://raw.fgit.cf/xiaren2/box/main/m1.txt",
             "name": "4k影院MAX"
         },
- {
-            "url": "https://raw.fgit.cf/xiaren2/box/main/m2.txt",
-            "name": "宇宙2"
-        },
+
  {
             "url": "https://raw.fgit.cf/xiaren2/box/main/m3.txt",
             "name": "龙门视频"
