@@ -122,10 +122,7 @@
             "url": "https://raw.fgit.cf/xiaren2/box/main/m.txt",
             "name": "瑞星MAX"
         },
-  {
-            "url": "https://raw.fgit.cf/xiaren2/box/main/m1.txt",
-            "name": "4k影院MAX"
-        },
+
 
  {
             "url": "https://raw.fgit.cf/xiaren2/box/main/m3.txt",
