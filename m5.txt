@@ -13,7 +13,7 @@
 "quickSearch":"1",
 "filterable":"1",
 "categories":"",
-"ext":"http://vpp.lyyytv.cn/api.php/app/",
+"ext":"http://wvwip.lyyytv.cn/api.php/app/",
 "jar":"","type_text":"Type 3",
 "playerType_text":"Playertype 1",
 "searchable_text":"Searchable 1",
