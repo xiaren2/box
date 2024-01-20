@@ -13,7 +13,7 @@
 "quickSearch":"1",
 "filterable":"1",
 "categories":"",
-"ext":"http://wvwip.lyyytv.cn/api.php/app/",
+"ext":"http://cms11.lyyytv.cn/api.php/app/",
 "jar":"","type_text":"Type 3",
 "playerType_text":"Playertype 1",
 "searchable_text":"Searchable 1",
@@ -21,6 +21,17 @@
 "filterable_text":"Filterable 1",
 "status_text":""
 },
+     {
+      "key": "Czsapp",
+      "name": "厂长┃APP",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "changeable": 1,
+      "ext": "https://www.czzy66.com"
+    },
   {
             "key": "演唱会",
             "name": "音乐鉴赏",
@@ -30,7 +41,7 @@
             "quickSearch": 0,
             "ext": "./bili/ych.json"
         },
-    
+
   
   
      {
