@@ -85,10 +85,7 @@
             "url": "https://weixine.net/ysc.json",
             "name": "运输车"
         },
-  {
-         "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
-          "name": "💕运输车VIP💕"
-    },
+
 
   {
             "url": "https://www.agit.ai/ddx/TVBox/raw/branch/master/t4.json",
