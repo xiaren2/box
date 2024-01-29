@@ -115,6 +115,10 @@
             "url": "https://vip.123pan.cn/1815433723/api/tudou.json",
             "name": "独享4K"
         },
+ {
+            "url": "http://xhww.fun/%E5%B0%8F%E7%B1%B3/DEMO.json",
+            "name": "奇乐"
+        },
   {
             "url": "https://raw.fgit.cf/xiaren2/box/main/m.txt",
             "name": "瑞星MAX"
