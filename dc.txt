@@ -148,7 +148,7 @@
             "name": "沐沐影视TV"
         },
  { 
-              "url": "https://jihulab.com/4kjidi/4kjidi1/-/raw/main/chaoyue.json?ref_type=heads ",
+              "url": "https://jihulab.com/4kjidi/4kjidi1/-/raw/main/chaoyu1e.json?ref_type=heads ",
               "name": "🚀沐沐影视备用1" 
 },    
 
