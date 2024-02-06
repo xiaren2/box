@@ -28,7 +28,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705260149282/fan.txt;md5;c774c41f98e151b33aa70e525b38164a",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;5aee1ff968a3dc5cbbf225399e9441e9",
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
       {
@@ -168,18 +168,8 @@
       "jar": "http://www.wya6.cn/tz/wyog.php"
     },
     {
-      "key": "哔嘀",
-      "name": "超清站-B",
-      "type": 3,
-      "api": "csp_Bdys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://www.wya6.cn/tz/wyog.php"
-    },
-    {
       "key": "DiDuan",
-      "name": "超清站-C",
+      "name": "超清站-B",
       "type": 3,
       "api": "csp_Ddrk",
       "playerType": "2",
@@ -189,7 +179,7 @@
     },
     {
             "key": "上班九九六",
-            "name": "超清-D",
+            "name": "超清-C",
             "type": 3,
             "playerType": 1,
             "api": "csp_XBPQ",
@@ -542,47 +532,7 @@
         "ratio": 1.597
       },
       "ext": "http://alist.xn--z7x900a.live/高中课堂.json"
-    },
-    {
-      "key": "UpYun",
-      "name": "4K备用-A",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "PanSearch",
-      "name": "4K备用-B",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "七夜",
-      "name": "4K备用-C",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-        {
-            "key": "我是备胎",
-            "name": "4K备用-D",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-        }],
+    }],
    "lives" : [
             {
             "name" : "live",
@@ -591,8 +541,8 @@
             "epg" : "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo" :"https://epg.112114.xyz/logo/{name}.png"
         }],
-	"spider": "http://122.228.84.103:5820/uploads/tvbox/Yoursmile.jar",
-	"parses": [
+  "flags": [],
+ "parses": [
 	    {"name":"Json并发","type":2,"url":"Parallel"},
 	    {"name":"解析聚合","type":3,"url":"Demo"},
         {"name":"Json轮询","type":2,"url":"Sequence"},
