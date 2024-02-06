@@ -17,7 +17,7 @@
 {"sourceName":"❤️多多聚合仓🍭严禁贩卖🍭","sourceUrl":"https://atomgit.com/iduo/Box/raw/master/ck/c.txt"},
 {"sourceName": "有毒范","sourceUrl": "https://youdu.fan/DC.txt"},
 {"sourceName": "龙伊滴稳TV","sourceUrl": "https://d.kstore.space/download/6160/DWDC.json"},
-{"sourceName": "乐享汇","sourceUrl": "https://atomgit.com/lxhfans/DEMO/raw/master/dc.txt"},
+{"sourceName": "乐享汇","sourceUrl": "https://atomgit.com/lxhfans/DEMO/raw/master/zx.json"},
 {"sourceName": "心动仓","sourceUrl": "http://rihou.vip:666"}
 
 ] }
