@@ -10,7 +10,7 @@
 {"sourceName": "💐欧歌测试仓库💐","sourceUrl": "http://w.nxog.top/nxog/ou1.php?url=http://w.nxog.top&xl=2&b=欧歌"},
 { "sourceName": "catbox","sourceUrl":"https://www.agit.ai/ddx/TVBox/raw/branch/master/d.json"},
   {"sourceName": "天微仓","sourceUrl": "http://tvkj.top/DC.txt"},
-  {"sourceName": "摸鱼","sourceUrl": "https://xn--v4q818bf34b.top"},
+  {"sourceName": "摸鱼","sourceUrl": "http://小鱼干.摸鱼儿.top"},
  {"sourceName":"💚多多优选仓🍭软件接口🍭","sourceUrl":"https://atomgit.com/iduo/Box/raw/master/duo.json"},
 {"sourceName":"💛多多公众仓🍭完全免费🍭","sourceUrl":"https://atomgit.com/iduo/Box/raw/master/ck/b.txt"},
 {"sourceName":"❤️多多聚合仓🍭严禁贩卖🍭","sourceUrl":"https://atomgit.com/iduo/Box/raw/master/ck/c.txt"},
