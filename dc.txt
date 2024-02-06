@@ -117,17 +117,17 @@
             "name": "奇乐"
         },
   {
-            "url": "https://raw.fgit.cf/xiaren2/box/main/m.txt",
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaren2/box/main/m.txt",
             "name": "瑞星MAX"
         },
 
 
  {
-            "url": "https://raw.fgit.cf/xiaren2/box/main/m3.txt",
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaren2/box/main/m3.txt",
             "name": "龙门视频"
         },
 {
-            "url": "https://raw.fgit.cf/xiaren2/box/main/m4.txt",
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaren2/box/main/m4.txt",
             "name": "恋影MAX"
         },
 
