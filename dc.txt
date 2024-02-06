@@ -147,17 +147,14 @@
 
 
  {
-            "url": "http://y1.ys.33love.cn:8665/app/ing",
+            "url": "https://jihulab.com/1122tv/tv/-/raw/main/tvbox.json?ref_type=heads",
             "name": "沐沐影视TV"
         },
  { 
-              "url": "http://ys.ys.33love.cn/app/ce.json ",
+              "url": "https://jihulab.com/4kjidi/4kjidi1/-/raw/main/chaoyue.json?ref_type=heads ",
               "name": "🚀沐沐影视备用1" 
 },    
-{ 
-                "url": "http://ys.ys.33love.cn/app/youzhi.json", 
-               "name": "🚀沐沐影视备用2"
-},
+
 
 
 {
