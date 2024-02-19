@@ -64,7 +64,7 @@
         },
         {
             "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/0825.json",
-            "name": "高山流云"
+            "name": "高山流云PGone"
         },
 
         {
