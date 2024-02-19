@@ -1,4 +1,4 @@
-//以下内容为互联网收集，只为自用…… https://raw.gitmirror.com/xiaren2/box/main/dc.txt
+//以下内容为互联网收集，只为自用…… https://raw.kkgithub.com/xiaren2/box/main/dc.txt
         {
     "urls":[
 {
@@ -13,7 +13,7 @@
 
 
   {
-            "url": "https://raw.gitmirror.com/PizazzGY/TVBox/main/api.json",
+            "url": "https://raw.staticdn.net/PizazzGY/TVBox/main/api.json",
             "name": "PizazzGY"
         },
 
@@ -24,7 +24,7 @@
         },
 
         {
-            "url": "https://raw.gitmirror.com/2hacc/TVBox/main/tvbox.json",
+            "url": "https://raw.staticdn.net/2hacc/TVBox/main/tvbox.json",
             "name": "二哈社区"
         },	
 
