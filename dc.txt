@@ -54,16 +54,16 @@
 
 
         {
-            "url": "https://gh.ddlc.top/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "url": "https://raw.kkgithub.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "FongMi"
         },
 
         {
-            "url": "https://gh.ddlc.top/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/js.json",
             "name": "高山流云js"
         },
         {
-            "url": "https://gh.ddlc.top/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "高山流云XYQ"
         },
 
@@ -113,17 +113,17 @@
             "name": "奇乐"
         },
   {
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaren2/box/main/m.txt",
+            "url": "https://raw.staticdn.net/xiaren2/box/main/m.txt",
             "name": "瑞星MAX"
         },
 
 
  {
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaren2/box/main/m3.txt",
+            "url": "https://raw.staticdn.net/xiaren2/box/main/m3.txt",
             "name": "龙门视频"
         },
 {
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaren2/box/main/m4.txt",
+            "url": "https://raw.staticdn.net/xiaren2/box/main/m4.txt",
             "name": "恋影MAX"
         },
 
