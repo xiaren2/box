@@ -63,8 +63,8 @@
             "name": "高山流云js"
         },
         {
-            "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/XYQ.json",
-            "name": "高山流云XYQ"
+            "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/0825.json",
+            "name": "高山流云"
         },
 
         {
