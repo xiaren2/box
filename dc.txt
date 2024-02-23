@@ -93,12 +93,6 @@
             "name": "独享4K"
         },
 
-  {
-            "url": "https://raw.staticdn.net/xiaren2/box/main/m.txt",
-            "name": "瑞星MAX"
-        },
-
-
 
 {
             "url": "https://raw.staticdn.net/xiaren2/box/main/m4.txt",
