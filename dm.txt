@@ -2,7 +2,7 @@
 { "storeHouse": [ 
 
 { "sourceName": "💢自用仓库", "sourceUrl": "https://raw.staticdn.net/xiaren2/box/main/dc.txt" }, 
-{ "sourceName": "老刘", "sourceUrl": "https://raw.kkgithub.com/liu673cn/box/main/dc.json" }, 
+{ "sourceName": "老刘", "sourceUrl": "https://raw.staticdn.net/liu673cn/box/main/dc.json" }, 
 { "sourceName": "🌸超级仓库", "sourceUrl": "https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt" },  
 { "sourceName": "乌鸦仓库", "sourceUrl": "https://jihulab.com/raven-ali/camellia-s/-/raw/main/%E6%88%91%E4%B8%8D%E9%BB%91%E5%BE%88%E7%99%BD.json" },
 {"sourceName": "🌹欧歌主仓库🌹", "sourceUrl": "http://a.nxog.top/nxog/ou1.php?url=http://a.nxog.top&xl=1&b=欧歌" },
