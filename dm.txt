@@ -8,7 +8,7 @@
 {"sourceName": "🌹欧歌主仓库🌹", "sourceUrl": "http://a.nxog.top/nxog/ou1.php?url=http://a.nxog.top&xl=1&b=欧歌" },
 {"sourceName": "🌷欧歌备仓库🌷", "sourceUrl": "https://o.nxog.top/nxog/ou1.php?url=https://o.nxog.top&xl=2&b=欧歌"},
 {"sourceName": "💐欧歌测试仓库💐","sourceUrl": "http://nxog.eu.org/nxog/ou1.php?url=http://nxog.eu.org&xl=1&b=欧歌"},
-{ "sourceName": "catbox","sourceUrl":"https://www.agit.ai/ddx/TVBox/raw/branch/master/d.json"},
+
   {"sourceName": "天微仓","sourceUrl": "http://tvkj.top/DC.txt"},
   {"sourceName": "摸鱼","sourceUrl": "https://atomgit.com/moyuer/svip/raw/master/dan/摸鱼儿.小鱼干.json"},
 {"sourceName": "小鱼干","sourceUrl": "https://jihulab.com/smdy/xyg/-/raw/main/小鱼干单仓.json"},
