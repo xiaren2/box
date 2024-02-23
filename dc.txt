@@ -8,7 +8,7 @@
 
         {
             "url": "https://www.agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "南风XC"
+            "name": "Yoursmile7"
         },
 
 
@@ -34,12 +34,6 @@
         },
  
 	
-	    {
-            "url": "http://52bsj.vip:98/wuai",
-            "name": "吾爱评测"
-        },
-
-
 
         {
             "url": "http://肥猫.live",
@@ -52,11 +46,6 @@
             "name": "道长"
         },
 
-
-        {
-            "url": "https://raw.kkgithub.com/FongMi/CatVodSpider/main/json/config.json",
-            "name": "FongMi"
-        },
 
         {
             "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/js.json",
@@ -83,11 +72,6 @@
         },
 
 
-  {
-            "url": "https://www.agit.ai/ddx/TVBox/raw/branch/master/t4.json",
-            "name": "catbox专享"
-        }, 
-
  {
             "url": "http://meowtv.cn/tv",
             "name": "喵影"
@@ -108,10 +92,7 @@
             "url": "https://vip.123pan.cn/1815433723/api/tudou.json",
             "name": "独享4K"
         },
- {
-            "url": "http://xn--sss604efuw.top/tv/",
-            "name": "奇乐"
-        },
+
   {
             "url": "https://raw.staticdn.net/xiaren2/box/main/m.txt",
             "name": "瑞星MAX"
