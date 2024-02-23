@@ -13,8 +13,10 @@
       "changeable": 1,
         "ext": "https://www.lystv.com/2024/1douban.json"
     },
-{//嘿嘿
-"jar":"https://www.lystv.com/2024/fan1129.png;md5;ea2690fc66083afe1431071968e60395","key":"会员线路1","name":"会员线路1","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="},
+//{//嘿嘿"jar":"https://www.lystv.com/2024/fan1129.png;md5;ea2690fc66083afe1431071968e60395","key":"会员线路1","name":"会员线路1","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="},
+
+ {"jar": "https://www.lystv.com/2024/spider217.jar;md5;1a00d5032cc02fad54510bab6d48ed4a","key":"会员线路1","name":"会员线路1","type":3,"api":"csp_WebHH","searchable":1,"quickSearch":1,"filterable":0},
+
 
  
  
@@ -31,28 +33,36 @@
 
 
 
- {"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7", "key": "会员线路3", "name": "会员线路3", "type": 3, "api": "csp_TTian", "playerType": 1, "ext": "http://op.ysdqjs.cn" },//天天
- {"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7", "key": "会员线路4", "name": "会员线路4", "type": 3, "api": "csp_Ys23", "searchable": 1, "quickSearch": 1, "filterable": 1 },//二三
- {"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7", "key": "会员线路5", "name": "会员线路5", "type": 3, "api": "csp_Movie", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./EXT/超神" } ,//超神
-	{"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7","key":"会员线路6","name":"会员线路6","type":3,"api":"csp_Movie2","ext":"https://www.lystv.com/2024/EXT/Movie1"},//影视一
+    {"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7", "key": "会员线路3", "name": "会员线路3", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/麻衣呀呼.json" },//麻衣呀呼
+	{"jar": "https://www.lystv.com/2024/spider217.jar;md5;1a00d5032cc02fad54510bab6d48ed4a","key":"会员线路4","name":"会员线路4","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lystv.com/2024/XYQHiker/子子影视.json"},//子子影视
 
-	{"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7","key":"会员线路7","name":"会员线路7","type":3,"api":"csp_Movie2","ext":"https://www.lystv.com/2024/EXT/Movie3"},//影视三
-	{"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7","key":"会员线路8","name":"会员线路8","type":3,"api":"csp_Movie2","ext":"https://www.lystv.com/2024/EXT/Movie4"},//影视四
+
+
+  
+	{"jar": "https://www.lystv.com/2024/spider217.jar;md5;1a00d5032cc02fad54510bab6d48ed4a","key":"会员线路5","name":"会员线路5","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lystv.com/2024/XBPQ/好戏影视.json"},//好戏影视
+ 
+	{"jar": "https://www.lystv.com/2024/spider217.jar;md5;1a00d5032cc02fad54510bab6d48ed4a","key":"会员线路6","name":"会员线路6","type":3,"api":"csp_Movie2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lystv.com/2024/EXT/欣欣"},//欣欣
+
+    {"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7", "key": "会员线路7", "name": "会员线路7", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/奇优影院.json"},//奇优影院
+    {"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7", "key": "会员线路8", "name": "会员线路8", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/开心影视.json" },//开心影视
+
+
+
+
+
     {"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7", "key": "会员线路9", "name": "会员线路9", "type": 3, "api": "csp_Czsapp", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.czzy88.com" },//厂长
     {"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7", "key": "会员线路10", "name": "会员线路10", "type": 3, "api": "csp_Bdys", "searchable": 1, "quickSearch": 1, "filterable": 1 },//哔嘀
     {"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7", "key": "会员线路11", "name": "会员线路11", "type": 3, "api": "csp_Ddys", "searchable": 1, "quickSearch": 1, "filterable": 1 },//低端
     {"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7", "key": "会员线路12", "name": "会员线路12", "type": 3, "api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "filterable": 1 },//七七
     {"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7", "key": "会员线路13", "name": "会员线路13", "type": 3, "api": "csp_Kuaikan", "searchable": 1, "quickSearch": 1, "filterable": 1 },//快看
-   {"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7", "key": "会员线路14", "name": "会员线路14", "type": 3, "api": "csp_Cs1369", "searchable": 1, "quickSearch": 1, "filterable": 1 },//九九六
+   {"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7", "key": "会员线路14", "name": "会员线路14", "type": 3, "api": "csp_Cs13691", "searchable": 1, "quickSearch": 1, "filterable": 1 },//九九六有广告
    {"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7", "key": "会员线路15", "name": "会员线路15", "type": 3, "api": "csp_Duanjuw", "searchable": 1, "quickSearch": 1, "changeable": 1 },//短剧网
     {"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7", "key": "会员线路16", "name": "会员线路16", "type": 3, "api": "csp_AppYs", "searchable": 1, "quickSearch": 1, "ext": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod" },//加速器
     { "key": "会员线路17", "name": "会员线路17", "type": 3, "api": "https://www.lystv.com/2024/lib/drpy2.min.js", "ext": "https://www.lystv.com/2024/lib/畅梦影视.js" },//畅梦影视
-    { "key": "会员线路18", "name": "会员线路18", "type": 3, "api": ".https://www.lystv.com/2024/lib/drpy2.min.js", "ext": "https://www.lystv.com/2024/lib/南瓜影视.js" },//南瓜影视
+    {"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7", "key": "会员线路18", "name": "会员线路18", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/农民影视.json" },//农民影视
     {"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7", "key": "会员线路19", "name": "会员线路19", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/柒月影视.json" },//柒月影视
     {"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7", "key": "会员线路20", "name": "会员线路20", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/麻衣呀呼.json" },//麻衣呀呼
-    {"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7", "key": "会员线路21", "name": "会员线路21", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/奇优影院.json"},//奇优影院
-    {"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7", "key": "会员线路22", "name": "会员线路22", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/开心影视.json" },//开心影视
-    {"jar": "https://www.lystv.com/2024/spider119.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7", "key": "会员线路23", "name": "会员线路23", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/农民影视.json" },//农民影视
+
 		
 {"key":"01","name":"██████","type":3,"api":"1","ext":"1","searchable":0},
 {"key":"02","name":"【影视备用线路↓】","type":3,"api":"2","ext":"1","searchable":0},
@@ -62,7 +72,7 @@
 			"key": "会员备用1",
 			"name": "会员备用1",
 			"type": 3,
-			"api": "csp_Cs1369",
+			"api": "csp_Cs13691",
 			"searchable": 1,
 			"quickSearch":1,
 			"changeable": 1
