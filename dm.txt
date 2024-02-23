@@ -3,15 +3,15 @@
 
 { "sourceName": "💢自用仓库", "sourceUrl": "https://raw.staticdn.net/xiaren2/box/main/dc.txt" }, 
 { "sourceName": "老刘", "sourceUrl": "https://raw.staticdn.net/liu673cn/box/main/dc.txt" }, 
-{ "sourceName": "🌸超级仓库", "sourceUrl": "https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt" },  
-{ "sourceName": "乌鸦仓库", "sourceUrl": "https://jihulab.com/raven-ali/camellia-s/-/raw/main/%E6%88%91%E4%B8%8D%E9%BB%91%E5%BE%88%E7%99%BD.json" },
+// { "sourceName": "🌸超级仓库", "sourceUrl": "https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt" },  
+// { "sourceName": "乌鸦仓库", "sourceUrl": "https://jihulab.com/raven-ali/camellia-s/-/raw/main/%E6%88%91%E4%B8%8D%E9%BB%91%E5%BE%88%E7%99%BD.json" },
 {"sourceName": "🌹欧歌主仓库🌹", "sourceUrl": "http://a.nxog.top/nxog/ou1.php?url=http://a.nxog.top&xl=1&b=欧歌" },
 {"sourceName": "🌷欧歌备仓库🌷", "sourceUrl": "https://o.nxog.top/nxog/ou1.php?url=https://o.nxog.top&xl=2&b=欧歌"},
 {"sourceName": "💐欧歌测试仓库💐","sourceUrl": "http://nxog.eu.org/nxog/ou1.php?url=http://nxog.eu.org&xl=1&b=欧歌"},
 
   {"sourceName": "天微仓","sourceUrl": "http://tvkj.top/DC.txt"},
   {"sourceName": "摸鱼","sourceUrl": "https://atomgit.com/moyuer/svip/raw/master/dan/摸鱼儿.小鱼干.json"},
-{"sourceName": "小鱼干","sourceUrl": "https://jihulab.com/smdy/first/-/raw/main/Begin/smdy.json"},
+{"sourceName": "小鱼干","sourceUrl": "https://atomgit.com/smdy/xyg/raw/master/小鱼干单仓.json"},
  {"sourceName":"💚多多优选仓🍭软件接口🍭","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/a.txt?ref=main"},
 {"sourceName":"💛多多公众仓🍭完全免费🍭","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/b.txt?ref=main"},
 {"sourceName":"❤️多多聚合仓🍭严禁贩卖🍭","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/c.txt?ref=main"},
