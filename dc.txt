@@ -117,10 +117,6 @@
         },
    
 {
-            "url": "https://jihulab.com/Rgb0315/tv/-/raw/main/tv.json?ref_type=heads",
-            "name": "255影视TV"
-        },
-{
             "url": "https://ysys.lic10.cn/ys/",
             "name": "余生"
         },
