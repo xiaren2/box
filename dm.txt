@@ -11,9 +11,8 @@
   {"sourceName": "天微仓","sourceUrl": "http://tvkj.top/DC.txt"},
   {"sourceName": "摸鱼","sourceUrl": "http://我不是.摸鱼儿.top"},
 {"sourceName": "小鱼干","sourceUrl": "http://小鱼干.摸鱼儿.top"},
- {"sourceName":"💚多多优选仓🍭软件接口🍭","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/a.txt?ref=main"},
-{"sourceName":"💛多多公众仓🍭完全免费🍭","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/b.txt?ref=main"},
-{"sourceName":"❤️多多聚合仓🍭严禁贩卖🍭","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/c.txt?ref=main"},
+ {"sourceName":"💚多多优选仓🍭软件接口🍭","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/duo.json?ref=main"},
+
 {"sourceName": "有毒范","sourceUrl": "https://youdu.fan/DC.txt"},
 {"sourceName": "心动仓","sourceUrl": "http://rihou.vip:666"}
 
