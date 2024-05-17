@@ -9,7 +9,7 @@
 {"sourceName": "💐欧歌测试仓库💐","sourceUrl": "http://nxog.eu.org/nxog/ou1.php?url=http://nxog.eu.org&xl=1&b=欧歌"},
 
   {"sourceName": "天微仓","sourceUrl": "http://tvkj.top/DC.txt"},
-  {"sourceName": "摸鱼","sourceUrl": "http://我不是.摸鱼儿.top"},
+
 {"sourceName": "小鱼干","sourceUrl": "http://小鱼干.摸鱼儿.top"},
  {"sourceName":"💚多多优选仓🍭软件接口🍭","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/duo.json?ref=main"},
 
