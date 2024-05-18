@@ -70,11 +70,6 @@
             "name": "yuanzl77"
         },
 
-  {
-            "url": "https://vip.123pan.cn/1815433723/api/tudou.json",
-            "name": "独享4K"
-        },
-
 
 {
             "url": "https://raw.staticdn.net/xiaren2/box/main/m4.txt",
