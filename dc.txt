@@ -72,7 +72,7 @@
 
 
 {
-            "url": "https://raw.staticdn.net/xiaren2/box/main/m4.txt",
+            "url": "https://www.lystv.com/2024/505/505.json",
             "name": "恋影MAX"
         },
 
