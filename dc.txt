@@ -94,10 +94,6 @@
 
 
  {
-            "url": "https://jihulab.com/1122tv/tv/-/raw/main/%E9%98%B2%E9%80%80?ref_type=heads",
-            "name": "沐沐影视TV"
-        },
- {
             "url": "http://ys.ys.33love.cn/app/ing",
             "name": "沐沐影视2TV"
         },
