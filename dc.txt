@@ -69,7 +69,10 @@
             "url": "https://raw.kkgithub.com/yuanzl77/TVBox-url/main/tv.txt",
             "name": "yuanzl77"
         },
-
+  {
+            "url": "https://175.178.251.18:6689/tv.txt", 
+             "name": "yuanzl77"
+        },
 
 {
             "url": "https://www.lystv.com/2024/505/505.json",
@@ -81,10 +84,6 @@
   {
             "url": "http://vip.123pan.cn/1819018655/jk/xzv/vip21.json",
             "name": "玄竹影视"
-        },
-  {
-            "url": "https://gitee.com/xuanzhu181/xzys/raw/main/xzvip.json", 
-             "name": "玄竹影视2"
         },
 
 
