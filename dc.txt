@@ -6,28 +6,31 @@
             "name": "饭太硬"
         },
 
+  {
+            "url": "http://tv.nxog.top/m/ ",
+            "name": "⭕欧歌API"
+        },
 
 
+  {
+            "url": "https://175.178.251.18:6689/tv.txt", 
+             "name": "yuanzl77猪猪"
+        },
+
+       {
+            "url": "http://肥猫.com",
+            "name": "肥猫"
+        },
   {
             "url": "https://raw.staticdn.net/PizazzGY/TVBox/main/api.json",
             "name": "PizazzGY"
         },
-
-
 	
-
  {
             "url": "https://xhdwc.tk/0",
             "name": "騷零"
         },
  
-	
-
-        {
-            "url": "http://肥猫.live",
-            "name": "肥猫"
-        },
-
 
 	{
             "url": "https://pastebin.com/raw/5NHaxyGR",
@@ -54,42 +57,15 @@
             "name": "巧计"
         },
   
-        {
-            "url": "https://weixine.net/ysc.json",
-            "name": "运输车"
-        },
-
-
-   {
-            "url": "http://tv.nxog.top/m/ ",
-            "name": "⭕欧歌API"
-        },
-
-   {
-            "url": "https://raw.kkgithub.com/yuanzl77/TVBox-url/main/tv.txt",
-            "name": "yuanzl77"
-        },
-  {
-            "url": "https://175.178.251.18:6689/tv.txt", 
-             "name": "yuanzl77"
-        },
 
 {
             "url": "https://www.lystv.com/2024/520/520v.json",
             "name": "恋影MAX"
         },
 
-
- 
   {
             "url": "http://vip.123pan.cn/1819018655/jk/xzv/vip21.json",
             "name": "玄竹影视"
-        },
-
-
- {
-            "url": "http://ys.ys.33love.cn/app/ing",
-            "name": "沐沐影视2TV"
         },
    
 {
