@@ -75,7 +75,7 @@
         },
 
 {
-            "url": "https://www.lystv.com/2024/505/505.json",
+            "url": "https://www.lystv.com/2024/520/520v.json",
             "name": "恋影MAX"
         },
 
