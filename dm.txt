@@ -3,7 +3,6 @@
 
 { "sourceName": "💢自用仓库", "sourceUrl": "https://raw.gitmirror.com/xiaren2/box/main/dc.txt" }, 
 { "sourceName": "老刘", "sourceUrl": "https://raw.staticdn.net/liu673cn/box/main/dc.txt" }, 
-// { "sourceName": "乌鸦仓库", "sourceUrl": "https://jihulab.com/raven-ali/camellia-s/-/raw/main/%E6%88%91%E4%B8%8D%E9%BB%91%E5%BE%88%E7%99%BD.json" },
 {"sourceName": "🌹欧歌主仓库🌹", "sourceUrl": "http://a.nxog.top/nxog/ou1.php?url=http://a.nxog.top&xl=1&b=欧歌" },
 {"sourceName": "🌷欧歌备仓库🌷", "sourceUrl": "https://o.nxog.top/nxog/ou1.php?url=https://o.nxog.top&xl=2&b=欧歌"},
 {"sourceName": "💐欧歌测试仓库💐","sourceUrl": "http://nxog.eu.org/nxog/ou1.php?url=http://nxog.eu.org&xl=1&b=欧歌"},
@@ -13,7 +12,7 @@
 {"sourceName": "小鱼干","sourceUrl": "http://小鱼干.摸鱼儿.top"},
  {"sourceName":"💚多多优选仓🍭软件接口🍭","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/duo.json?ref=main"},
 
-// {"sourceName": "有毒范","sourceUrl": "https://youdu.fan/DC.txt"},
+// {"sourceName": "有毒范","sourceUrl": "http://itvbox.cc/可视仓库/在线仓"},
 {"sourceName": "心动仓","sourceUrl": "http://rihou.vip:666"}
 
 ] }
