@@ -64,7 +64,7 @@
         },
 
   {
-            "url": "http://vip.123pan.cn/1819018655/jk/xzv/vip1211.json",
+            "url": "http://vip.123pan.cn/1819018655/api/svip/xzv.json",
             "name": "玄竹影视"
         },
    
