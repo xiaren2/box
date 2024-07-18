@@ -58,10 +58,7 @@
         },
   
 
-{
-            "url": "https://www.lystv.com/2024/520/520v.json",
-            "name": "恋影MAX"
-        },
+
 
   {
             "url": "http://vip.123pan.cn/1819018655/api/svip/xzv.json",
