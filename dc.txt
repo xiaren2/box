@@ -73,6 +73,11 @@
 {
             "url": "https://www.xn--rgv465a.top/无界线路Pro版",
             "name": "无界线路Pro版"
+        },
+
+{
+            "url": "http://www.fish2018.us.kg/p/jsm.json",
+            "name": "PG"
         }
 
 
