@@ -71,8 +71,8 @@
         },
 
 {
-            "url": "http://我不是.摸鱼儿.top",
-            "name": "摸鱼单线路"
+            "url": "https://www.xn--rgv465a.top/无界线路Pro版",
+            "name": "无界线路Pro版"
         },
   {
             "url": "http://xhww.fun:63/小米/DEMO.json",
