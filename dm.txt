@@ -8,7 +8,7 @@
 {"sourceName": "💐欧歌测试仓库💐","sourceUrl": "http://nxog.eu.org/nxog/ou1.php?url=http://nxog.eu.org&xl=1&b=欧歌"},
 
   {"sourceName": "天微仓","sourceUrl": "http://tvkj.top/DC.txt"},
-
+{"sourceName": "爱尚影视","sourceUrl": "https://d.kstore.dev/download/5872/aishangdc.json"},
 {"sourceName": "无界线路多仓版","sourceUrl": "https://www.xn--rgv465a.top/无界线路多仓版"}
 
 
