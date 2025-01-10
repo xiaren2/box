@@ -1,7 +1,7 @@
 //以下内容为互联网收集，只为自用…… https://raw.gitmirror.com/xiaren2/box/main/dm.txt
 { "storeHouse": [ 
 
-{ "sourceName": "💢自用仓库", "sourceUrl": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xiaren2/box/refs/heads/main/dm.txt" }, 
+{ "sourceName": "💢自用仓库", "sourceUrl": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xiaren2/box/refs/heads/main/dc.txt" }, 
 { "sourceName": "老刘", "sourceUrl": "https://raw.staticdn.net/liu673cn/box/main/dc.txt" }, 
 {"sourceName": "🌹欧歌主仓库🌹", "sourceUrl": "http://a.nxog.top/nxog/ou1.php?url=http://a.nxog.top&xl=1&b=欧歌" },
 {"sourceName": "🌷欧歌备仓库🌷", "sourceUrl": "https://o.nxog.top/nxog/ou1.php?url=https://o.nxog.top&xl=2&b=欧歌"},
