@@ -67,6 +67,10 @@
             "url": "https://www.xn--rgv465a.top/无界线路Pro版",
             "name": "无界线路Pro版"
         },
+{
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/",
+            "name": "王二小"
+        },
 
 {
             "url": "http://www.fish2018.us.kg/p/jsm.json",
