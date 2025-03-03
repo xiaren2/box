@@ -21,36 +21,7 @@
             "url": "http://肥猫.com",
             "name": "肥猫"
         },
-  {
-            "url": "https://raw.staticdn.net/PizazzGY/TVBox/main/api.json",
-            "name": "PizazzGY"
-        },
-	
- {
-            "url": "https://xhdwc.tk/0",
-            "name": "騷零"
-        },
- 
 
-	{
-            "url": "https://pastebin.com/raw/5NHaxyGR",
-            "name": "道长"
-        },
-
-
-        {
-            "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/js.json",
-            "name": "高山流云js"
-        },
-        {
-            "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/0825.json",
-            "name": "高山流云PGone"
-        },
-
-        {
-            "url": "http://rihou.vip:88/荷城茶秀",
-            "name": "荷城茶秀"
-        },
 
         {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
@@ -71,7 +42,10 @@
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/",
             "name": "王二小"
         },
-
+{
+            "url": "http://ok321.top/tv",
+            "name": "OK"
+        },
 {
             "url": "http://www.fish2018.us.kg/p/jsm.json",
             "name": "PG"
