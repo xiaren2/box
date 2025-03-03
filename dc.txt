@@ -57,13 +57,6 @@
             "name": "巧计"
         },
   
-
-
-
-  {
-            "url": "http://vip.123pan.cn/1819018655/api/svip/xzv.json",
-            "name": "玄竹影视"
-        },
    
 {
             "url": "https://ysys.lic10.cn/ys/",
