@@ -9,6 +9,7 @@
 
 //  {"sourceName": "天微仓","sourceUrl": "http://tvkj.top/DC.txt"},
 {"sourceName": "爱尚影视","sourceUrl": "https://d.kstore.dev/download/5872/aishangdc.json"},
+{"sourceName": "tushen6","sourceUrl": "https://ghfast.top/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json"},
 {"sourceName": "无界线路多仓版","sourceUrl": "https://www.xn--rgv465a.top/无界线路多仓版"}
 
 
