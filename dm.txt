@@ -3,8 +3,8 @@
 
 { "sourceName": "💢自用仓库", "sourceUrl": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xiaren2/box/refs/heads/main/dc.txt" }, 
 //{ "sourceName": "老刘", "sourceUrl": "https://raw.staticdn.net/liu673cn/box/main/dc.txt" }, 
-{"sourceName": "🌹欧歌主仓库🌹", "sourceUrl": "http://a.nxog.top/nxog/ou1.php?url=http://a.nxog.top&xl=1&b=欧歌" },
-{"sourceName": "🌷欧歌备仓库🌷", "sourceUrl": "https://rw欧歌wr.v.nxog.top/api.php?id=1"},
+{"sourceName": "🌹欧歌主仓库🌹", "sourceUrl": "https://xn--nyyn-rp5imh.v.nxog.top/api.php?id=1" },
+{"sourceName": "🌷欧歌备仓库🌷", "sourceUrl": "https://xn--dmmd-rp5imh.v.nxog.top/nxog/ou1.php?b=%E6%AC%A7%E6%AD%8C"},
 {"sourceName": "💐欧歌测试仓库💐","sourceUrl": "http://nxog.eu.org/nxog/ou1.php?url=http://nxog.eu.org&xl=1&b=欧歌"},
 
 //  {"sourceName": "天微仓","sourceUrl": "http://tvkj.top/DC.txt"},
