@@ -12,6 +12,7 @@
 {"sourceName": "tushen6","sourceUrl": "https://ghfast.top/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json"},
 {"sourceName": "qirenzhidao","sourceUrl": "https://raw.bgithub.xyz/qirenzhidao/tvbox18/refs/heads/main/tvbox.json"},
 {"sourceName": "loopool","sourceUrl": "https://raw.bgithub.xyz/loopool/fan/refs/heads/main/xl.json"},
+{"sourceName": "多多","sourceUrl": "https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多影音.txt"},
 {"sourceName": "无界线路多仓版","sourceUrl": "https://www.xn--rgv465a.top/无界线路多仓版"}
 
 
