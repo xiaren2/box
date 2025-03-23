@@ -8,7 +8,7 @@
 {"sourceName": "💐欧歌测试仓库💐","sourceUrl": "https://3.nxog.eu.org/nxog/ou1.php?b=ny欧歌yn"},
 
 //  {"sourceName": "天微仓","sourceUrl": "http://tvkj.top/DC.txt"},
-{"sourceName": "爱尚影视","sourceUrl": "https://d.kstore.dev/download/5872/aishangdc.json"},
+//{"sourceName": "爱尚影视","sourceUrl": "https://d.kstore.dev/download/5872/aishangdc.json"},
 {"sourceName": "tushen6","sourceUrl": "https://ghfast.top/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json"},
 {"sourceName": "qirenzhidao","sourceUrl": "https://raw.bgithub.xyz/qirenzhidao/tvbox18/refs/heads/main/tvbox.json"},
 {"sourceName": "loopool","sourceUrl": "https://raw.bgithub.xyz/loopool/fan/refs/heads/main/xl.json"},
