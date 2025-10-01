@@ -3,9 +3,9 @@
 
 { "sourceName": "💢自用仓库", "sourceUrl": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xiaren2/box/refs/heads/main/dc.txt" }, 
 //{ "sourceName": "老刘", "sourceUrl": "https://raw.staticdn.net/liu673cn/box/main/dc.txt" }, 
-{"sourceName": "🌹欧歌主仓库🌹", "sourceUrl": "https://xn--nyyn-rp5imh.v.nxog.top/nxog/ou1.php?b=ny欧歌yn" },
-{"sourceName": "🌷欧歌备仓库🌷", "sourceUrl": "https://2.nxog.eu.org/nxog/ou1.php?b=ny欧歌yn"},
-{"sourceName": "💐欧歌测试仓库💐","sourceUrl": "https://3.nxog.eu.org/nxog/ou1.php?b=ny欧歌yn"},
+{"sourceName":"🌹os装🅱so主仓库🌹","sourceUrl":"https://xn--osso-wn6lw489o.v.nxog.top/nxog/oua.php?b=os装🅱so"},
+{"sourceName":"🌹os装🅱so备1仓库🌹","sourceUrl":"https://2.nxog.eu.org/nxog/oua.php?b=os装🅱so"},
+{"sourceName":"🌷os装🅱so备2仓库🌷","sourceUrl":"https://3.nxog.eu.org/nxog/oua.php?b=os装🅱so"},
 
 //  {"sourceName": "天微仓","sourceUrl": "http://tvkj.top/DC.txt"},
 //{"sourceName": "爱尚影视","sourceUrl": "https://d.kstore.dev/download/5872/aishangdc.json"},
