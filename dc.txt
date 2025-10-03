@@ -11,11 +11,11 @@
             "name": "⭕欧歌API"
         },
 
-
-  {
-            "url": "http://175.178.251.183:6689/tv.txt", 
-             "name": "yuanzl77猪猪"
+{
+            "url": "http://liucn.cc/box/dc.txt",
+            "name": "老刘"
         },
+
 
        {
             "url": "http://肥猫.com",
@@ -46,6 +46,7 @@
             "url": "http://ok321.top/tv",
             "name": "OK"
         },
+
 {
             "url": "http://www.fish2018.us.kg/p/jsm.json",
             "name": "PG"
