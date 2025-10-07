@@ -11,11 +11,6 @@
             "name": "⭕欧歌API"
         },
 
-{
-            "url": "http://liucn.cc/box/dc.txt",
-            "name": "老刘"
-        },
-
 
        {
             "url": "http://肥猫.com",
