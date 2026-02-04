@@ -22,10 +22,6 @@
             "name": "潇洒"
         },
 
-  {
-            "url": "http://ok321.top/ok",
-            "name": "OK"
-        },
 
   {
             "url": "http://fmys.top/fmys.json",
