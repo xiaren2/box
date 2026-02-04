@@ -2,7 +2,6 @@
 { "storeHouse": [ 
 
 { "sourceName": "💢自用仓库", "sourceUrl": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xiaren2/box/refs/heads/main/dc.txt" }, 
-{ "sourceName": "神秘", "sourceUrl": "https://play.iptv365.org/tvbox.txt" }, 
 //{ "sourceName": "老刘", "sourceUrl": "https://raw.staticdn.net/liu673cn/box/main/dc.txt" }, 
 {"sourceName":"🌹os装🅱so主仓库🌹","sourceUrl":"https://xn--osso-wn6lw489o.v.nxog.top/nxog/oua.php?b=os装🅱so"},
 {"sourceName":"🌹os装🅱so备1仓库🌹","sourceUrl":"https://2.nxog.eu.org/nxog/oua.php?b=os装🅱so"},
