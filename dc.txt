@@ -23,12 +23,6 @@
         },
 
 
-  {
-            "url": "http://fmys.top/fmys.json",
-            "name": "驸马"
-        },
-
-
         {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
             "name": "巧计"
