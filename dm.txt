@@ -11,8 +11,8 @@
 //  {"sourceName": "天微仓","sourceUrl": "http://tvkj.top/DC.txt"},
 //{"sourceName": "爱尚影视","sourceUrl": "https://d.kstore.dev/download/5872/aishangdc.json"},
 {"sourceName": "tushen6","sourceUrl": "https://ghfast.top/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json"},
-{"sourceName": "qirenzhidao","sourceUrl": "https://raw.bgithub.xyz/qirenzhidao/tvbox18/refs/heads/main/tvbox.json"},
-{"sourceName": "loopool","sourceUrl": "https://raw.bgithub.xyz/loopool/fan/refs/heads/main/xl.json"},
+{"sourceName": "qirenzhidao","sourceUrl": "https://raw.4github.com/qirenzhidao/tvbox18/refs/heads/main/tvbox.json"},
+{"sourceName": "loopool","sourceUrl": "https://raw.4github.com/loopool/fan/refs/heads/main/xl.json"},
 {"sourceName": "多多","sourceUrl": "https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多影音.txt"},
 {"sourceName": "无界线路多仓版","sourceUrl": "https://www.xn--rgv465a.top/无界线路多仓版"}
 
