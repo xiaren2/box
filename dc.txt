@@ -1,4 +1,4 @@
-//以下内容为互联网收集，只为自用…… https://raw.kkgithub.com/xiaren2/box/main/dc.txt
+//以下内容为互联网收集，只为自用…… https://raw.4github.com/xiaren2/box/main/dc.txt
         {
     "urls":[
 {
