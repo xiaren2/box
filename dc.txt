@@ -27,27 +27,7 @@
             "url": "http://a.nxog.top/m/",
             "name": "欧歌"
         }
-  
-   
-//{
-            "url": "https://ysys.lic10.cn/ys/",
-            "name": "余生"
-        },
 
-//{
-            "url": "https://www.xn--rgv465a.top/无界线路Pro版",
-            "name": "无界线路Pro版"
-        },
-
-//{
-            "url": "http://ok321.top/tv",
-            "name": "OK"
-        },
-
-//{
-            "url": "http://www.fish2018.us.kg/p/jsm.json",
-            "name": "PG"
-        }
 
 
     ]
