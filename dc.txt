@@ -22,6 +22,10 @@
             "name": "南风"
         },
 
+  {
+            "url": "https://6800.kstore.vip/fish.json",
+            "name": "鱼"
+        },
 
         {
             "url": "http://a.nxog.top/m/",
