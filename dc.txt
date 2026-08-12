@@ -33,7 +33,11 @@
 
   {
             "url": "https://6800.kstore.vip/fish.json",
-            "name": "鱼"
+            "name": "摸鱼"
+        },
+  {
+            "url": "xn--v4q818bf34b.cc",
+            "name": "摸鱼2"
         },
 
         {
