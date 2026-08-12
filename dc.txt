@@ -11,6 +11,15 @@
             "name": "饭太硬备用"
         },
 
+    {
+            "url": "https://9280.kstore.vip/aiwex.json",
+            "name": "王二小3代"
+        },
+
+    {
+            "url": "https://new.999888123.xyz",
+            "name": "王二小2代"
+        },
 
        {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
