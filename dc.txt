@@ -36,7 +36,7 @@
             "name": "摸鱼"
         },
   {
-            "url": "xn--v4q818bf34b.cc",
+            "url": "https://xn--v4q818bf34b.cc",
             "name": "摸鱼2"
         },
 
